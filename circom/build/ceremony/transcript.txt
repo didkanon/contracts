@@ -1,0 +1,52 @@
+=== kanonv2 non_revocation Groth16 ceremony ===
+date: Thu Jun 18 21:50:19 UTC 2026
+phase1: REUSED public Hermez Perpetual Powers of Tau (powersOfTau28_hez_final_16.ptau)
+[phase1] sha256: 1c401abb57c9ce531370f3015c3e75c0892e0f32b8b1e94ace0f6682d9695922
+[phase1] sha256 matches published Hermez 16 — skipping transcript verify
+
+[phase2] setup
+[phase2] contribution 1
+[phase2] contribution 2
+[phase2] beacon
+[phase2] verify (keys match circuit + transcript)
+[32;22m[INFO]  [39;1msnarkJS[0m: Reading r1cs
+[32;22m[INFO]  [39;1msnarkJS[0m: Reading tauG1
+[32;22m[INFO]  [39;1msnarkJS[0m: Reading tauG2
+[32;22m[INFO]  [39;1msnarkJS[0m: Reading alphatauG1
+[32;22m[INFO]  [39;1msnarkJS[0m: Reading betatauG1
+[32;22m[INFO]  [39;1msnarkJS[0m: Circuit hash: 
+		4dd752d4 847f4b26 6a3a70ec 3fecd67d
+		46b3b7f4 6f7bc914 3ef26fa7 b1664e97
+		d1738794 930e254f c02c9617 6c615372
+		bdb5cc71 d7fe25e3 291d1dba 778fb76f
+[32;22m[INFO]  [39;1msnarkJS[0m: Circuit Hash: 
+		4dd752d4 847f4b26 6a3a70ec 3fecd67d
+		46b3b7f4 6f7bc914 3ef26fa7 b1664e97
+		d1738794 930e254f c02c9617 6c615372
+		bdb5cc71 d7fe25e3 291d1dba 778fb76f
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #3 phase2 final beacon:
+		41ccf739 4dc1e8cb 50f909cd e584c3ea
+		4a3d5321 a4295c2f 7f7ab753 eb3e095a
+		da24a092 40cdf311 98d61c92 2b989dc9
+		3eb4fd5a e7e054ca e588f219 57064724
+[32;22m[INFO]  [39;1msnarkJS[0m: Beacon generator: 0102030405060708090a0b0c0d0e0f101112131415161718191a1b1c1d1e1f20
+[32;22m[INFO]  [39;1msnarkJS[0m: Beacon iterations Exp: 10
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #2 phase2-contributor-2:
+		5aad933a 1a9ae550 c1349913 2f3b7068
+		c1d18e7f 839818ae b1fe10fa 6daa9e4d
+		259a3232 11f34f2a e6261a4e 7089d8b4
+		af69e0f5 d3c974ea 74cfac64 580efa00
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #1 phase2-contributor-1:
+		afa785d5 37530821 954282a6 3f176a39
+		f07c162b 4e37dad0 0f9caa67 c93c4231
+		2639d9fa 2a6e21cf 571d6fd2 f363c351
+		3964fa40 d81a5c9e aa1aef49 c9441d54
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: ZKey Ok!
+
+[export] verification key + Solidity verifier
+
+ceremony complete. transcript: circom/build/ceremony/transcript.txt

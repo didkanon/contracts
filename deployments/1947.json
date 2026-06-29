@@ -1,0 +1,29 @@
+{
+  "chainId": 1947,
+  "network": "besu-ajna",
+  "deployedAt": "2026-06-17T14:52:52.920Z",
+  "deployer": "0x272caee9A01f23bd07E54Bc41F2aC51Eba4325eD",
+  "rootAdmin": "0x272caee9A01f23bd07E54Bc41F2aC51Eba4325eD",
+  "issuerOrgId": "0xa479b0a8c0152ccb4f56efcdbca2d9790dc53f4e5475e5c205f769775c7c3a16",
+  "addresses": {
+    "KanonAddressBook": "0x325c9cC81A75ab45775D7BAf007cE3612d473A9f",
+    "OrganizationRegistry": "0x559bFFF08ac52549F5AdCe1e66E65B8C4811d460",
+    "DIDRegistry": "0xE065Beea5E6f543A79003A4E8ABAA4A94aB18d88",
+    "SchemaRegistry": "0x30be73d9b37246E3c291bBe187DAC8CA6Df15959",
+    "CredentialDefinitionRegistry": "0x06C66aE52Ee9FA5c0556dcC504868be2c256f88E",
+    "MerkleStateRegistry": "0x82Aa2A7Cb668C0D1D49B1fb9AEDa8C3b98eA795c",
+    "Halo2VerifierRegistry": "0x65bcBDbBca9c781cefFF36552b991e27247d6a92",
+    "AnonCredsStatusRegistry": "0xC69b96283F98186936753f35F7f7028497BF7185"
+  },
+  "implementations": {
+    "KanonAddressBook": "0xFC5978BC156F886b5e3EaD3326976FD97237f09f",
+    "OrganizationRegistry": "0x75aDb75460b9ff081A11E611E29555d123dd06f7",
+    "DIDRegistry": "0xce669F2B45f8e67e16b0F105da6ABe7C1261134F",
+    "SchemaRegistry": "0x5d2A108B702bd0da30DB00A682B46A22f97F1b0A",
+    "CredentialDefinitionRegistry": "0x0EAFffb52F03Ee2B1eeBBb155aa6D1faBB19D35d",
+    "MerkleStateRegistry": "0xaBbE9Fd554EA5d445b8E3e6C3625083a81C5961D",
+    "Halo2VerifierRegistry": "0x7f54AfAf3ed99405cD8f4aD2a796a11890cb8839",
+    "AnonCredsStatusRegistry": "0x47cf80Ffb6081119A7ff548593a1E9A4CA1DC126"
+  },
+  "upgradedAt": "2026-06-19T08:02:52.349Z"
+}

@@ -1,0 +1,5097 @@
+{
+  "manifestVersion": "3.2",
+  "proxies": [
+    {
+      "address": "0x843784D5EcbF863Ba0C34c2696eF0a2DDe756585",
+      "txHash": "0x9e0b086af6ebee53c6fdb31614dd455c1c92a0426d54d7b26421e2c24fd570da",
+      "kind": "uups"
+    },
+    {
+      "address": "0x6D16389a22E9fB6884Da0a277a261234727811f4",
+      "txHash": "0xf4df903d41d59359b09a85ec652fbeed6efd907c8e033c4b0b199c086b8153b5",
+      "kind": "uups"
+    },
+    {
+      "address": "0xB2838BCE1ae99EBbF89A607C5cF41415455af2DD",
+      "txHash": "0x1ee5107d80b4f18eefadcb9a6fd0c06f3500329ca78f265e4722bdfe8a4dc9ee",
+      "kind": "uups"
+    },
+    {
+      "address": "0x082fB43ce3aF05b55635658C5839fea1a24B5d56",
+      "txHash": "0x9ba148cb181b0508c73e32e706ec61551ae9c04860ce1dabd45861523572d4e8",
+      "kind": "uups"
+    },
+    {
+      "address": "0x318C3af52DD1F38D9900234E1FC8DEcF0954BFb0",
+      "txHash": "0x5cf8ce856929d0ec389b775aacfd940d4a59b89a975284b838cbc5ce186b9c2e",
+      "kind": "uups"
+    },
+    {
+      "address": "0xb370FF1ff19CD69AB9A43AAcFDbbe4944C38F38F",
+      "txHash": "0x13f02febe9e6d4ac333f0dae33872d6709b7b582827939bdc0747eec43db7e89",
+      "kind": "uups"
+    },
+    {
+      "address": "0xEaa7554e5b4cAB0654b28714255b9FFc8E77169c",
+      "txHash": "0x49518609a164415cc89dfa754e4399d8d05d091641504b4cf9b7a0a1716a8c8a",
+      "kind": "uups"
+    },
+    {
+      "address": "0x5d9cDD09Be6EEc0c557a78768DAE12768ACA6A62",
+      "txHash": "0x846dbe27999aeb25f82fc5403448d59286047c7458236fe87723a348e9ce8259",
+      "kind": "uups"
+    },
+    {
+      "address": "0xAa42C58C122df4FfB8Bb2Fc919FCFc2f47Bc949F",
+      "txHash": "0xbe195781bfb071804e4aaced89bd46f9128929251c0901bf2d3f57a332908c1a",
+      "kind": "uups"
+    },
+    {
+      "address": "0x8Af987ff5bD721F9bFDd6c4bC3b8522a4C54Db09",
+      "txHash": "0xc26674405eb51ded86e92ba7eef5896a366409a093ace3ab67534f513fa7eb50",
+      "kind": "uups"
+    },
+    {
+      "address": "0x45acD0134fbEed22bce9AA6146CBf533A8594304",
+      "txHash": "0xdd49cd87ef0cc55f3f9a4eb4a6e3b37a19e8fbed7191e1361ddeb2dae7968c65",
+      "kind": "uups"
+    },
+    {
+      "address": "0x17Ad0ED01e54E2847e6A20756c1fd78dFc1492FC",
+      "txHash": "0x45bfdb96d691fd3dafdef6f4027475e34ac7a8afaa3543543854ec44c1d837f0",
+      "kind": "uups"
+    },
+    {
+      "address": "0x64446FB0848CD027aF9b4A9B51261D1DCF394468",
+      "txHash": "0xc2a4d9d07ba538400d8d94a557d44d0d52db10367e1c263075fad61462562da0",
+      "kind": "uups"
+    },
+    {
+      "address": "0x395A46388bb756ACEf4984BbE016ED6289691bcd",
+      "txHash": "0xbeb73b4cdd324c3737fe1d686a13e075875a4977a9f7ee15ed2fd166725bc025",
+      "kind": "uups"
+    },
+    {
+      "address": "0x3F62bcF524bB01637EF999F9E6066d764fcdb9dc",
+      "txHash": "0x0f821b9ddf4fa06c828cb4b0fa78f6f1a3e884635d5f50f86b38253d45851756",
+      "kind": "uups"
+    },
+    {
+      "address": "0x559bFFF08ac52549F5AdCe1e66E65B8C4811d460",
+      "txHash": "0x837a0b431f64664b60ad8a07f535ed3f14b313cb161797effc2198ffb3101a8c",
+      "kind": "uups"
+    },
+    {
+      "address": "0xE065Beea5E6f543A79003A4E8ABAA4A94aB18d88",
+      "txHash": "0xf4500a65fa75e6651d96121965992d8cbaeeead64196d33896c12d035b3d984d",
+      "kind": "uups"
+    },
+    {
+      "address": "0x30be73d9b37246E3c291bBe187DAC8CA6Df15959",
+      "txHash": "0x0c209edb5b8ea7acd8c6c3e4c8e664c24f847fc3a0877e4251b5325529c3dba2",
+      "kind": "uups"
+    },
+    {
+      "address": "0x06C66aE52Ee9FA5c0556dcC504868be2c256f88E",
+      "txHash": "0x3a3f3097c1ebd0e22a6513d417c77cba293e30f8e8d4b3389c2797f3489364bf",
+      "kind": "uups"
+    },
+    {
+      "address": "0x82Aa2A7Cb668C0D1D49B1fb9AEDa8C3b98eA795c",
+      "txHash": "0xed4203ecdcabd75827e271c51aa3723f1c2083b5c8af42658a1b398e276bc277",
+      "kind": "uups"
+    },
+    {
+      "address": "0x65bcBDbBca9c781cefFF36552b991e27247d6a92",
+      "txHash": "0xfc1c002d1f923245776e78448ba65e5c0138d9bfd30ae5283df56b2260eb6ab6",
+      "kind": "uups"
+    },
+    {
+      "address": "0xC69b96283F98186936753f35F7f7028497BF7185",
+      "txHash": "0x9e2e6bd711a907b1a8c5774b165d688e90d37b2582292896b99143bf8e30920c",
+      "kind": "uups"
+    },
+    {
+      "address": "0x325c9cC81A75ab45775D7BAf007cE3612d473A9f",
+      "txHash": "0x2b1956038f64e8be61c330ad4c80923685f9b3a76f283b159ce15ae05b980707",
+      "kind": "uups"
+    }
+  ],
+  "impls": {
+    "a64563360ddbf9cd342df903ac740f41b6f85f9288342324f8d53e9463cd7d6e": {
+      "address": "0x1f72A25ac60E24eC7B6aC1E18240C52dbB6AA099",
+      "txHash": "0xcc06724c4bd49bf36b8ed128d91b3c2ed880e7d29a21bc4817691a54a4329521",
+      "layout": {
+        "solcVersion": "0.8.24",
+        "storage": [],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)47_storage": {
+            "label": "uint256[47]",
+            "numberOfBytes": "1504"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_bytes32": {
+            "label": "bytes32",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_struct(RoleData)24_storage)": {
+            "label": "mapping(bytes32 => struct AccessControlUpgradeable.RoleData)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_mapping(t_address,t_bool))": {
+            "label": "mapping(uint256 => mapping(address => bool))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_struct(Organization)2901_storage)": {
+            "label": "mapping(uint256 => struct IOrganizationRegistry.Organization)",
+            "numberOfBytes": "32"
+          },
+          "t_string_storage": {
+            "label": "string",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AccessControlStorage)34_storage": {
+            "label": "struct AccessControlUpgradeable.AccessControlStorage",
+            "members": [
+              {
+                "label": "_roles",
+                "type": "t_mapping(t_bytes32,t_struct(RoleData)24_storage)",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(InitializableStorage)818_storage": {
+            "label": "struct Initializable.InitializableStorage",
+            "members": [
+              {
+                "label": "_initialized",
+                "type": "t_uint64",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "_initializing",
+                "type": "t_bool",
+                "offset": 8,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(OrgStorage)3147_storage": {
+            "label": "struct OrganizationRegistry.OrgStorage",
+            "members": [
+              {
+                "label": "orgs",
+                "type": "t_mapping(t_uint256,t_struct(Organization)2901_storage)",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "members",
+                "type": "t_mapping(t_uint256,t_mapping(t_address,t_bool))",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "nextOrgId",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "__gap",
+                "type": "t_array(t_uint256)47_storage",
+                "offset": 0,
+                "slot": "3"
+              }
+            ],
+            "numberOfBytes": "1600"
+          },
+          "t_struct(Organization)2901_storage": {
+            "label": "struct IOrganizationRegistry.Organization",
+            "members": [
+              {
+                "label": "did",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "admin",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "approved",
+                "type": "t_bool",
+                "offset": 20,
+                "slot": "1"
+              },
+              {
+                "label": "suspended",
+                "type": "t_bool",
+                "offset": 21,
+                "slot": "1"
+              },
+              {
+                "label": "createdAt",
+                "type": "t_uint64",
+                "offset": 22,
+                "slot": "1"
+              },
+              {
+                "label": "approvedAt",
+                "type": "t_uint64",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_struct(PausableStorage)187_storage": {
+            "label": "struct PausableUpgradeable.PausableStorage",
+            "members": [
+              {
+                "label": "_paused",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(RoleData)24_storage": {
+            "label": "struct AccessControlUpgradeable.RoleData",
+            "members": [
+              {
+                "label": "hasRole",
+                "type": "t_mapping(t_address,t_bool)",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "adminRole",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint64": {
+            "label": "uint64",
+            "numberOfBytes": "8"
+          }
+        },
+        "namespaces": {
+          "erc7201:kanon.OrganizationRegistry": [
+            {
+              "contract": "OrganizationRegistry",
+              "label": "orgs",
+              "type": "t_mapping(t_uint256,t_struct(Organization)2901_storage)",
+              "src": "contracts/orgs/OrganizationRegistry.sol:27",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "OrganizationRegistry",
+              "label": "members",
+              "type": "t_mapping(t_uint256,t_mapping(t_address,t_bool))",
+              "src": "contracts/orgs/OrganizationRegistry.sol:28",
+              "offset": 0,
+              "slot": "1"
+            },
+            {
+              "contract": "OrganizationRegistry",
+              "label": "nextOrgId",
+              "type": "t_uint256",
+              "src": "contracts/orgs/OrganizationRegistry.sol:29",
+              "offset": 0,
+              "slot": "2"
+            },
+            {
+              "contract": "OrganizationRegistry",
+              "label": "__gap",
+              "type": "t_array(t_uint256)47_storage",
+              "src": "contracts/orgs/OrganizationRegistry.sol:30",
+              "offset": 0,
+              "slot": "3"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Pausable": [
+            {
+              "contract": "PausableUpgradeable",
+              "label": "_paused",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts-upgradeable/utils/PausableUpgradeable.sol:21",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.AccessControl": [
+            {
+              "contract": "AccessControlUpgradeable",
+              "label": "_roles",
+              "type": "t_mapping(t_bytes32,t_struct(RoleData)24_storage)",
+              "src": "@openzeppelin/contracts-upgradeable/access/AccessControlUpgradeable.sol:61",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Initializable": [
+            {
+              "contract": "Initializable",
+              "label": "_initialized",
+              "type": "t_uint64",
+              "src": "@openzeppelin/contracts/proxy/utils/Initializable.sol:69",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "Initializable",
+              "label": "_initializing",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts/proxy/utils/Initializable.sol:73",
+              "offset": 8,
+              "slot": "0"
+            }
+          ]
+        }
+      }
+    },
+    "11779d18b4b7c32ce6c854fc6ce29deec5d8ab6009b53d3a30bd3ecb83d6f81d": {
+      "address": "0x1919Df442e75E79080123fAba57D968fb76fF9C0",
+      "txHash": "0x99669098a3c49ec269e7abfc3018751f0704439a3ab39b1423b34cbff38202e4",
+      "layout": {
+        "solcVersion": "0.8.24",
+        "storage": [],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_bytes32)dyn_storage": {
+            "label": "bytes32[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_struct(Service)2543_storage)dyn_storage": {
+            "label": "struct IDIDRegistry.Service[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_struct(VerificationMethod)2536_storage)dyn_storage": {
+            "label": "struct IDIDRegistry.VerificationMethod[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)46_storage": {
+            "label": "uint256[46]",
+            "numberOfBytes": "1472"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_bytes32": {
+            "label": "bytes32",
+            "numberOfBytes": "32"
+          },
+          "t_bytes_storage": {
+            "label": "bytes",
+            "numberOfBytes": "32"
+          },
+          "t_contract(IOrganizationRegistry)3019": {
+            "label": "contract IOrganizationRegistry",
+            "numberOfBytes": "20"
+          },
+          "t_enum(DIDScope)2528": {
+            "label": "enum IDIDRegistry.DIDScope",
+            "members": [
+              "User",
+              "Org"
+            ],
+            "numberOfBytes": "1"
+          },
+          "t_enum(VerificationMethodType)2525": {
+            "label": "enum IDIDRegistry.VerificationMethodType",
+            "members": [
+              "Ed25519VerificationKey2020",
+              "EcdsaSecp256k1VerificationKey2019",
+              "Bls12381G2Key2020",
+              "JsonWebKey2020"
+            ],
+            "numberOfBytes": "1"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_struct(RoleData)24_storage)": {
+            "label": "mapping(bytes32 => struct AccessControlUpgradeable.RoleData)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_string_memory_ptr,t_address)": {
+            "label": "mapping(string => address)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_string_memory_ptr,t_bool)": {
+            "label": "mapping(string => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_string_memory_ptr,t_struct(DIDDocument)2582_storage)": {
+            "label": "mapping(string => struct IDIDRegistry.DIDDocument)",
+            "numberOfBytes": "32"
+          },
+          "t_string_memory_ptr": {
+            "label": "string",
+            "numberOfBytes": "32"
+          },
+          "t_string_storage": {
+            "label": "string",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AccessControlStorage)34_storage": {
+            "label": "struct AccessControlUpgradeable.AccessControlStorage",
+            "members": [
+              {
+                "label": "_roles",
+                "type": "t_mapping(t_bytes32,t_struct(RoleData)24_storage)",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(DIDDocument)2582_storage": {
+            "label": "struct IDIDRegistry.DIDDocument",
+            "members": [
+              {
+                "label": "controller",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "orgId",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "scope",
+                "type": "t_enum(DIDScope)2528",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "verificationMethods",
+                "type": "t_array(t_struct(VerificationMethod)2536_storage)dyn_storage",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "authentication",
+                "type": "t_array(t_bytes32)dyn_storage",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "assertionMethod",
+                "type": "t_array(t_bytes32)dyn_storage",
+                "offset": 0,
+                "slot": "5"
+              },
+              {
+                "label": "capabilityInvocation",
+                "type": "t_array(t_bytes32)dyn_storage",
+                "offset": 0,
+                "slot": "6"
+              },
+              {
+                "label": "capabilityDelegation",
+                "type": "t_array(t_bytes32)dyn_storage",
+                "offset": 0,
+                "slot": "7"
+              },
+              {
+                "label": "keyAgreement",
+                "type": "t_array(t_bytes32)dyn_storage",
+                "offset": 0,
+                "slot": "8"
+              },
+              {
+                "label": "services",
+                "type": "t_array(t_struct(Service)2543_storage)dyn_storage",
+                "offset": 0,
+                "slot": "9"
+              },
+              {
+                "label": "docHash",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "10"
+              },
+              {
+                "label": "createdAt",
+                "type": "t_uint64",
+                "offset": 0,
+                "slot": "11"
+              },
+              {
+                "label": "updatedAt",
+                "type": "t_uint64",
+                "offset": 8,
+                "slot": "11"
+              },
+              {
+                "label": "deactivated",
+                "type": "t_bool",
+                "offset": 16,
+                "slot": "11"
+              }
+            ],
+            "numberOfBytes": "384"
+          },
+          "t_struct(DIDStorage)2193_storage": {
+            "label": "struct DIDRegistry.DIDStorage",
+            "members": [
+              {
+                "label": "docs",
+                "type": "t_mapping(t_string_memory_ptr,t_struct(DIDDocument)2582_storage)",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "controllers",
+                "type": "t_mapping(t_string_memory_ptr,t_address)",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "exists_",
+                "type": "t_mapping(t_string_memory_ptr,t_bool)",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "orgRegistry",
+                "type": "t_contract(IOrganizationRegistry)3019",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "__gap",
+                "type": "t_array(t_uint256)46_storage",
+                "offset": 0,
+                "slot": "4"
+              }
+            ],
+            "numberOfBytes": "1600"
+          },
+          "t_struct(InitializableStorage)818_storage": {
+            "label": "struct Initializable.InitializableStorage",
+            "members": [
+              {
+                "label": "_initialized",
+                "type": "t_uint64",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "_initializing",
+                "type": "t_bool",
+                "offset": 8,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(PausableStorage)187_storage": {
+            "label": "struct PausableUpgradeable.PausableStorage",
+            "members": [
+              {
+                "label": "_paused",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(RoleData)24_storage": {
+            "label": "struct AccessControlUpgradeable.RoleData",
+            "members": [
+              {
+                "label": "hasRole",
+                "type": "t_mapping(t_address,t_bool)",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "adminRole",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_struct(Service)2543_storage": {
+            "label": "struct IDIDRegistry.Service",
+            "members": [
+              {
+                "label": "id",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "serviceType",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "endpoint",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_struct(VerificationMethod)2536_storage": {
+            "label": "struct IDIDRegistry.VerificationMethod",
+            "members": [
+              {
+                "label": "id",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "vmType",
+                "type": "t_enum(VerificationMethodType)2525",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "publicKey",
+                "type": "t_bytes_storage",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint64": {
+            "label": "uint64",
+            "numberOfBytes": "8"
+          }
+        },
+        "namespaces": {
+          "erc7201:kanon.DIDRegistry": [
+            {
+              "contract": "DIDRegistry",
+              "label": "docs",
+              "type": "t_mapping(t_string_memory_ptr,t_struct(DIDDocument)2582_storage)",
+              "src": "contracts/did/DIDRegistry.sol:40",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "DIDRegistry",
+              "label": "controllers",
+              "type": "t_mapping(t_string_memory_ptr,t_address)",
+              "src": "contracts/did/DIDRegistry.sol:41",
+              "offset": 0,
+              "slot": "1"
+            },
+            {
+              "contract": "DIDRegistry",
+              "label": "exists_",
+              "type": "t_mapping(t_string_memory_ptr,t_bool)",
+              "src": "contracts/did/DIDRegistry.sol:42",
+              "offset": 0,
+              "slot": "2"
+            },
+            {
+              "contract": "DIDRegistry",
+              "label": "orgRegistry",
+              "type": "t_contract(IOrganizationRegistry)3019",
+              "src": "contracts/did/DIDRegistry.sol:43",
+              "offset": 0,
+              "slot": "3"
+            },
+            {
+              "contract": "DIDRegistry",
+              "label": "__gap",
+              "type": "t_array(t_uint256)46_storage",
+              "src": "contracts/did/DIDRegistry.sol:44",
+              "offset": 0,
+              "slot": "4"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Pausable": [
+            {
+              "contract": "PausableUpgradeable",
+              "label": "_paused",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts-upgradeable/utils/PausableUpgradeable.sol:21",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.AccessControl": [
+            {
+              "contract": "AccessControlUpgradeable",
+              "label": "_roles",
+              "type": "t_mapping(t_bytes32,t_struct(RoleData)24_storage)",
+              "src": "@openzeppelin/contracts-upgradeable/access/AccessControlUpgradeable.sol:61",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Initializable": [
+            {
+              "contract": "Initializable",
+              "label": "_initialized",
+              "type": "t_uint64",
+              "src": "@openzeppelin/contracts/proxy/utils/Initializable.sol:69",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "Initializable",
+              "label": "_initializing",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts/proxy/utils/Initializable.sol:73",
+              "offset": 8,
+              "slot": "0"
+            }
+          ]
+        }
+      }
+    },
+    "876921e0858f0d1f4ad4351cc7e38af5a6d73d0b1dd5b3d34c2ff751fd2b4e70": {
+      "address": "0x7F6c3B5C074f8177Fa3dD025683c4ad5C3b1A3b1",
+      "txHash": "0xa46f72a4d27a6a79b113afbead76a69a0740fd92e1736315c6d6c0e4da054a35",
+      "layout": {
+        "solcVersion": "0.8.24",
+        "storage": [],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)48_storage": {
+            "label": "uint256[48]",
+            "numberOfBytes": "1536"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_bytes32": {
+            "label": "bytes32",
+            "numberOfBytes": "32"
+          },
+          "t_contract(IOrganizationRegistry)3019": {
+            "label": "contract IOrganizationRegistry",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_struct(RoleData)24_storage)": {
+            "label": "mapping(bytes32 => struct AccessControlUpgradeable.RoleData)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_struct(Schema)3032_storage)": {
+            "label": "mapping(bytes32 => struct ISchemaRegistry.Schema)",
+            "numberOfBytes": "32"
+          },
+          "t_string_storage": {
+            "label": "string",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AccessControlStorage)34_storage": {
+            "label": "struct AccessControlUpgradeable.AccessControlStorage",
+            "members": [
+              {
+                "label": "_roles",
+                "type": "t_mapping(t_bytes32,t_struct(RoleData)24_storage)",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(InitializableStorage)818_storage": {
+            "label": "struct Initializable.InitializableStorage",
+            "members": [
+              {
+                "label": "_initialized",
+                "type": "t_uint64",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "_initializing",
+                "type": "t_bool",
+                "offset": 8,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(PausableStorage)187_storage": {
+            "label": "struct PausableUpgradeable.PausableStorage",
+            "members": [
+              {
+                "label": "_paused",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(RoleData)24_storage": {
+            "label": "struct AccessControlUpgradeable.RoleData",
+            "members": [
+              {
+                "label": "hasRole",
+                "type": "t_mapping(t_address,t_bool)",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "adminRole",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_struct(Schema)3032_storage": {
+            "label": "struct ISchemaRegistry.Schema",
+            "members": [
+              {
+                "label": "issuerOrg",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "schemaHash",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "uri",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "createdAt",
+                "type": "t_uint64",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "deprecated",
+                "type": "t_bool",
+                "offset": 8,
+                "slot": "3"
+              }
+            ],
+            "numberOfBytes": "128"
+          },
+          "t_struct(SchemaStorage)3327_storage": {
+            "label": "struct SchemaRegistry.SchemaStorage",
+            "members": [
+              {
+                "label": "schemas",
+                "type": "t_mapping(t_bytes32,t_struct(Schema)3032_storage)",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "orgRegistry",
+                "type": "t_contract(IOrganizationRegistry)3019",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "__gap",
+                "type": "t_array(t_uint256)48_storage",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "1600"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint64": {
+            "label": "uint64",
+            "numberOfBytes": "8"
+          }
+        },
+        "namespaces": {
+          "erc7201:kanon.SchemaRegistry": [
+            {
+              "contract": "SchemaRegistry",
+              "label": "schemas",
+              "type": "t_mapping(t_bytes32,t_struct(Schema)3032_storage)",
+              "src": "contracts/schemas/SchemaRegistry.sol:29",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "SchemaRegistry",
+              "label": "orgRegistry",
+              "type": "t_contract(IOrganizationRegistry)3019",
+              "src": "contracts/schemas/SchemaRegistry.sol:30",
+              "offset": 0,
+              "slot": "1"
+            },
+            {
+              "contract": "SchemaRegistry",
+              "label": "__gap",
+              "type": "t_array(t_uint256)48_storage",
+              "src": "contracts/schemas/SchemaRegistry.sol:31",
+              "offset": 0,
+              "slot": "2"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Pausable": [
+            {
+              "contract": "PausableUpgradeable",
+              "label": "_paused",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts-upgradeable/utils/PausableUpgradeable.sol:21",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.AccessControl": [
+            {
+              "contract": "AccessControlUpgradeable",
+              "label": "_roles",
+              "type": "t_mapping(t_bytes32,t_struct(RoleData)24_storage)",
+              "src": "@openzeppelin/contracts-upgradeable/access/AccessControlUpgradeable.sol:61",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Initializable": [
+            {
+              "contract": "Initializable",
+              "label": "_initialized",
+              "type": "t_uint64",
+              "src": "@openzeppelin/contracts/proxy/utils/Initializable.sol:69",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "Initializable",
+              "label": "_initializing",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts/proxy/utils/Initializable.sol:73",
+              "offset": 8,
+              "slot": "0"
+            }
+          ]
+        }
+      }
+    },
+    "92b4f2bf872ad8592051cc6e23d92efbe27acd23cf00d1e6c14cd2b24bbdb794": {
+      "address": "0xbdD9e762e4bC24D8a2f9197A17f357aE8892dAC7",
+      "txHash": "0xca3eecd9f7d25f0ccae26ccb1a3b2561edf07ead40ad3b803dac1e6e5343cb4f",
+      "layout": {
+        "solcVersion": "0.8.24",
+        "storage": [],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)47_storage": {
+            "label": "uint256[47]",
+            "numberOfBytes": "1504"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_bytes32": {
+            "label": "bytes32",
+            "numberOfBytes": "32"
+          },
+          "t_bytes_storage": {
+            "label": "bytes",
+            "numberOfBytes": "32"
+          },
+          "t_contract(IOrganizationRegistry)3019": {
+            "label": "contract IOrganizationRegistry",
+            "numberOfBytes": "20"
+          },
+          "t_contract(ISchemaRegistry)3091": {
+            "label": "contract ISchemaRegistry",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_struct(CredentialDefinition)2448_storage)": {
+            "label": "mapping(bytes32 => struct ICredentialDefinitionRegistry.CredentialDefinition)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_struct(RoleData)24_storage)": {
+            "label": "mapping(bytes32 => struct AccessControlUpgradeable.RoleData)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AccessControlStorage)34_storage": {
+            "label": "struct AccessControlUpgradeable.AccessControlStorage",
+            "members": [
+              {
+                "label": "_roles",
+                "type": "t_mapping(t_bytes32,t_struct(RoleData)24_storage)",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(CredDefStorage)2012_storage": {
+            "label": "struct CredentialDefinitionRegistry.CredDefStorage",
+            "members": [
+              {
+                "label": "credDefs",
+                "type": "t_mapping(t_bytes32,t_struct(CredentialDefinition)2448_storage)",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "schemaRegistry",
+                "type": "t_contract(ISchemaRegistry)3091",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "orgRegistry",
+                "type": "t_contract(IOrganizationRegistry)3019",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "__gap",
+                "type": "t_array(t_uint256)47_storage",
+                "offset": 0,
+                "slot": "3"
+              }
+            ],
+            "numberOfBytes": "1600"
+          },
+          "t_struct(CredentialDefinition)2448_storage": {
+            "label": "struct ICredentialDefinitionRegistry.CredentialDefinition",
+            "members": [
+              {
+                "label": "schemaId",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "issuerOrg",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "issuerPubKey",
+                "type": "t_bytes_storage",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "policyMask",
+                "type": "t_uint8",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "createdAt",
+                "type": "t_uint64",
+                "offset": 1,
+                "slot": "3"
+              },
+              {
+                "label": "deprecated",
+                "type": "t_bool",
+                "offset": 9,
+                "slot": "3"
+              }
+            ],
+            "numberOfBytes": "128"
+          },
+          "t_struct(InitializableStorage)818_storage": {
+            "label": "struct Initializable.InitializableStorage",
+            "members": [
+              {
+                "label": "_initialized",
+                "type": "t_uint64",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "_initializing",
+                "type": "t_bool",
+                "offset": 8,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(PausableStorage)187_storage": {
+            "label": "struct PausableUpgradeable.PausableStorage",
+            "members": [
+              {
+                "label": "_paused",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(RoleData)24_storage": {
+            "label": "struct AccessControlUpgradeable.RoleData",
+            "members": [
+              {
+                "label": "hasRole",
+                "type": "t_mapping(t_address,t_bool)",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "adminRole",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint64": {
+            "label": "uint64",
+            "numberOfBytes": "8"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        },
+        "namespaces": {
+          "erc7201:kanon.CredentialDefinitionRegistry": [
+            {
+              "contract": "CredentialDefinitionRegistry",
+              "label": "credDefs",
+              "type": "t_mapping(t_bytes32,t_struct(CredentialDefinition)2448_storage)",
+              "src": "contracts/creddefs/CredentialDefinitionRegistry.sol:37",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "CredentialDefinitionRegistry",
+              "label": "schemaRegistry",
+              "type": "t_contract(ISchemaRegistry)3091",
+              "src": "contracts/creddefs/CredentialDefinitionRegistry.sol:38",
+              "offset": 0,
+              "slot": "1"
+            },
+            {
+              "contract": "CredentialDefinitionRegistry",
+              "label": "orgRegistry",
+              "type": "t_contract(IOrganizationRegistry)3019",
+              "src": "contracts/creddefs/CredentialDefinitionRegistry.sol:39",
+              "offset": 0,
+              "slot": "2"
+            },
+            {
+              "contract": "CredentialDefinitionRegistry",
+              "label": "__gap",
+              "type": "t_array(t_uint256)47_storage",
+              "src": "contracts/creddefs/CredentialDefinitionRegistry.sol:40",
+              "offset": 0,
+              "slot": "3"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Pausable": [
+            {
+              "contract": "PausableUpgradeable",
+              "label": "_paused",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts-upgradeable/utils/PausableUpgradeable.sol:21",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.AccessControl": [
+            {
+              "contract": "AccessControlUpgradeable",
+              "label": "_roles",
+              "type": "t_mapping(t_bytes32,t_struct(RoleData)24_storage)",
+              "src": "@openzeppelin/contracts-upgradeable/access/AccessControlUpgradeable.sol:61",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Initializable": [
+            {
+              "contract": "Initializable",
+              "label": "_initialized",
+              "type": "t_uint64",
+              "src": "@openzeppelin/contracts/proxy/utils/Initializable.sol:69",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "Initializable",
+              "label": "_initializing",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts/proxy/utils/Initializable.sol:73",
+              "offset": 8,
+              "slot": "0"
+            }
+          ]
+        }
+      }
+    },
+    "22cbb40746a21944d9f907e8710cbc7c698ebc99e3e7f255dd57d0ae329c6434": {
+      "address": "0x25b156D093e03A1fcd242a2bf7249a1DAcF55fA9",
+      "txHash": "0x4577bb9fba382629568b0ab0ce7bc8433a7b4301cf7599c2f92d85c83b367df5",
+      "layout": {
+        "solcVersion": "0.8.24",
+        "storage": [],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_bytes32)16_storage": {
+            "label": "bytes32[16]",
+            "numberOfBytes": "512"
+          },
+          "t_array(t_uint256)41_storage": {
+            "label": "uint256[41]",
+            "numberOfBytes": "1312"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_bytes32": {
+            "label": "bytes32",
+            "numberOfBytes": "32"
+          },
+          "t_contract(Halo2VerifierRegistry)4276": {
+            "label": "contract Halo2VerifierRegistry",
+            "numberOfBytes": "20"
+          },
+          "t_contract(ICredentialDefinitionRegistry)2518": {
+            "label": "contract ICredentialDefinitionRegistry",
+            "numberOfBytes": "20"
+          },
+          "t_contract(IOrganizationRegistry)3019": {
+            "label": "contract IOrganizationRegistry",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_address)": {
+            "label": "mapping(bytes32 => address)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_array(t_bytes32)16_storage)": {
+            "label": "mapping(bytes32 => bytes32[16])",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_bool)": {
+            "label": "mapping(bytes32 => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_mapping(t_bytes32,t_bool))": {
+            "label": "mapping(bytes32 => mapping(bytes32 => bool))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_struct(MerkleState)2711_storage)": {
+            "label": "mapping(bytes32 => struct IMerkleStateRegistry.MerkleState)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_struct(RoleData)24_storage)": {
+            "label": "mapping(bytes32 => struct AccessControlUpgradeable.RoleData)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AccessControlStorage)34_storage": {
+            "label": "struct AccessControlUpgradeable.AccessControlStorage",
+            "members": [
+              {
+                "label": "_roles",
+                "type": "t_mapping(t_bytes32,t_struct(RoleData)24_storage)",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(InitializableStorage)818_storage": {
+            "label": "struct Initializable.InitializableStorage",
+            "members": [
+              {
+                "label": "_initialized",
+                "type": "t_uint64",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "_initializing",
+                "type": "t_bool",
+                "offset": 8,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(MerkleState)2711_storage": {
+            "label": "struct IMerkleStateRegistry.MerkleState",
+            "members": [
+              {
+                "label": "rootKeccak",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "rootPoseidon",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "epoch",
+                "type": "t_uint64",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "lastUpdated",
+                "type": "t_uint64",
+                "offset": 8,
+                "slot": "2"
+              },
+              {
+                "label": "issuedCount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "revokedCount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "4"
+              }
+            ],
+            "numberOfBytes": "160"
+          },
+          "t_struct(MsrStorage)3518_storage": {
+            "label": "struct MerkleStateRegistry.MsrStorage",
+            "members": [
+              {
+                "label": "state",
+                "type": "t_mapping(t_bytes32,t_struct(MerkleState)2711_storage)",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "recentKeccakRoots",
+                "type": "t_mapping(t_bytes32,t_array(t_bytes32)16_storage)",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "recentPoseidonRoots",
+                "type": "t_mapping(t_bytes32,t_array(t_bytes32)16_storage)",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "nullifierUsed",
+                "type": "t_mapping(t_bytes32,t_mapping(t_bytes32,t_bool))",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "zkVerifiers",
+                "type": "t_mapping(t_bytes32,t_address)",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "initialized",
+                "type": "t_mapping(t_bytes32,t_bool)",
+                "offset": 0,
+                "slot": "5"
+              },
+              {
+                "label": "credDefRegistry",
+                "type": "t_contract(ICredentialDefinitionRegistry)2518",
+                "offset": 0,
+                "slot": "6"
+              },
+              {
+                "label": "orgRegistry",
+                "type": "t_contract(IOrganizationRegistry)3019",
+                "offset": 0,
+                "slot": "7"
+              },
+              {
+                "label": "verifierRegistry",
+                "type": "t_contract(Halo2VerifierRegistry)4276",
+                "offset": 0,
+                "slot": "8"
+              },
+              {
+                "label": "reentrancyStatus",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "9"
+              },
+              {
+                "label": "__gap",
+                "type": "t_array(t_uint256)41_storage",
+                "offset": 0,
+                "slot": "10"
+              }
+            ],
+            "numberOfBytes": "1632"
+          },
+          "t_struct(PausableStorage)187_storage": {
+            "label": "struct PausableUpgradeable.PausableStorage",
+            "members": [
+              {
+                "label": "_paused",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(RoleData)24_storage": {
+            "label": "struct AccessControlUpgradeable.RoleData",
+            "members": [
+              {
+                "label": "hasRole",
+                "type": "t_mapping(t_address,t_bool)",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "adminRole",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint64": {
+            "label": "uint64",
+            "numberOfBytes": "8"
+          }
+        },
+        "namespaces": {
+          "erc7201:kanon.MerkleStateRegistry": [
+            {
+              "contract": "MerkleStateRegistry",
+              "label": "state",
+              "type": "t_mapping(t_bytes32,t_struct(MerkleState)2711_storage)",
+              "src": "contracts/state/MerkleStateRegistry.sol:43",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "MerkleStateRegistry",
+              "label": "recentKeccakRoots",
+              "type": "t_mapping(t_bytes32,t_array(t_bytes32)16_storage)",
+              "src": "contracts/state/MerkleStateRegistry.sol:44",
+              "offset": 0,
+              "slot": "1"
+            },
+            {
+              "contract": "MerkleStateRegistry",
+              "label": "recentPoseidonRoots",
+              "type": "t_mapping(t_bytes32,t_array(t_bytes32)16_storage)",
+              "src": "contracts/state/MerkleStateRegistry.sol:45",
+              "offset": 0,
+              "slot": "2"
+            },
+            {
+              "contract": "MerkleStateRegistry",
+              "label": "nullifierUsed",
+              "type": "t_mapping(t_bytes32,t_mapping(t_bytes32,t_bool))",
+              "src": "contracts/state/MerkleStateRegistry.sol:46",
+              "offset": 0,
+              "slot": "3"
+            },
+            {
+              "contract": "MerkleStateRegistry",
+              "label": "zkVerifiers",
+              "type": "t_mapping(t_bytes32,t_address)",
+              "src": "contracts/state/MerkleStateRegistry.sol:47",
+              "offset": 0,
+              "slot": "4"
+            },
+            {
+              "contract": "MerkleStateRegistry",
+              "label": "initialized",
+              "type": "t_mapping(t_bytes32,t_bool)",
+              "src": "contracts/state/MerkleStateRegistry.sol:48",
+              "offset": 0,
+              "slot": "5"
+            },
+            {
+              "contract": "MerkleStateRegistry",
+              "label": "credDefRegistry",
+              "type": "t_contract(ICredentialDefinitionRegistry)2518",
+              "src": "contracts/state/MerkleStateRegistry.sol:49",
+              "offset": 0,
+              "slot": "6"
+            },
+            {
+              "contract": "MerkleStateRegistry",
+              "label": "orgRegistry",
+              "type": "t_contract(IOrganizationRegistry)3019",
+              "src": "contracts/state/MerkleStateRegistry.sol:50",
+              "offset": 0,
+              "slot": "7"
+            },
+            {
+              "contract": "MerkleStateRegistry",
+              "label": "verifierRegistry",
+              "type": "t_contract(Halo2VerifierRegistry)4276",
+              "src": "contracts/state/MerkleStateRegistry.sol:51",
+              "offset": 0,
+              "slot": "8"
+            },
+            {
+              "contract": "MerkleStateRegistry",
+              "label": "reentrancyStatus",
+              "type": "t_uint256",
+              "src": "contracts/state/MerkleStateRegistry.sol:52",
+              "offset": 0,
+              "slot": "9"
+            },
+            {
+              "contract": "MerkleStateRegistry",
+              "label": "__gap",
+              "type": "t_array(t_uint256)41_storage",
+              "src": "contracts/state/MerkleStateRegistry.sol:53",
+              "offset": 0,
+              "slot": "10"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Pausable": [
+            {
+              "contract": "PausableUpgradeable",
+              "label": "_paused",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts-upgradeable/utils/PausableUpgradeable.sol:21",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.AccessControl": [
+            {
+              "contract": "AccessControlUpgradeable",
+              "label": "_roles",
+              "type": "t_mapping(t_bytes32,t_struct(RoleData)24_storage)",
+              "src": "@openzeppelin/contracts-upgradeable/access/AccessControlUpgradeable.sol:61",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Initializable": [
+            {
+              "contract": "Initializable",
+              "label": "_initialized",
+              "type": "t_uint64",
+              "src": "@openzeppelin/contracts/proxy/utils/Initializable.sol:69",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "Initializable",
+              "label": "_initializing",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts/proxy/utils/Initializable.sol:73",
+              "offset": 8,
+              "slot": "0"
+            }
+          ]
+        }
+      }
+    },
+    "019a6da9d5009801f51e9a5a86b8fbfb4ab0a54f939d371af04879b4d118facd": {
+      "address": "0x7f54AfAf3ed99405cD8f4aD2a796a11890cb8839",
+      "txHash": "0xc8cdd2f15e982c8e9ff93744a64610689daf6c68348ee48da9640de1ebb8792d",
+      "layout": {
+        "solcVersion": "0.8.24",
+        "storage": [],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_bytes32)dyn_storage": {
+            "label": "bytes32[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)48_storage": {
+            "label": "uint256[48]",
+            "numberOfBytes": "1536"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_bytes32": {
+            "label": "bytes32",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_address)": {
+            "label": "mapping(bytes32 => address)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_struct(RoleData)24_storage)": {
+            "label": "mapping(bytes32 => struct AccessControlUpgradeable.RoleData)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AccessControlStorage)34_storage": {
+            "label": "struct AccessControlUpgradeable.AccessControlStorage",
+            "members": [
+              {
+                "label": "_roles",
+                "type": "t_mapping(t_bytes32,t_struct(RoleData)24_storage)",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(InitializableStorage)818_storage": {
+            "label": "struct Initializable.InitializableStorage",
+            "members": [
+              {
+                "label": "_initialized",
+                "type": "t_uint64",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "_initializing",
+                "type": "t_bool",
+                "offset": 8,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(PausableStorage)187_storage": {
+            "label": "struct PausableUpgradeable.PausableStorage",
+            "members": [
+              {
+                "label": "_paused",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(RoleData)24_storage": {
+            "label": "struct AccessControlUpgradeable.RoleData",
+            "members": [
+              {
+                "label": "hasRole",
+                "type": "t_mapping(t_address,t_bool)",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "adminRole",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_struct(VerifierStorage)4218_storage": {
+            "label": "struct Halo2VerifierRegistry.VerifierStorage",
+            "members": [
+              {
+                "label": "verifierByVersion",
+                "type": "t_mapping(t_bytes32,t_address)",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "versions",
+                "type": "t_array(t_bytes32)dyn_storage",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "__gap",
+                "type": "t_array(t_uint256)48_storage",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "1600"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint64": {
+            "label": "uint64",
+            "numberOfBytes": "8"
+          }
+        },
+        "namespaces": {
+          "erc7201:kanon.Halo2VerifierRegistry": [
+            {
+              "contract": "Halo2VerifierRegistry",
+              "label": "verifierByVersion",
+              "type": "t_mapping(t_bytes32,t_address)",
+              "src": "contracts/verifiers/Halo2VerifierRegistry.sol:26",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "Halo2VerifierRegistry",
+              "label": "versions",
+              "type": "t_array(t_bytes32)dyn_storage",
+              "src": "contracts/verifiers/Halo2VerifierRegistry.sol:27",
+              "offset": 0,
+              "slot": "1"
+            },
+            {
+              "contract": "Halo2VerifierRegistry",
+              "label": "__gap",
+              "type": "t_array(t_uint256)48_storage",
+              "src": "contracts/verifiers/Halo2VerifierRegistry.sol:28",
+              "offset": 0,
+              "slot": "2"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Pausable": [
+            {
+              "contract": "PausableUpgradeable",
+              "label": "_paused",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts-upgradeable/utils/PausableUpgradeable.sol:21",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.AccessControl": [
+            {
+              "contract": "AccessControlUpgradeable",
+              "label": "_roles",
+              "type": "t_mapping(t_bytes32,t_struct(RoleData)24_storage)",
+              "src": "@openzeppelin/contracts-upgradeable/access/AccessControlUpgradeable.sol:61",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Initializable": [
+            {
+              "contract": "Initializable",
+              "label": "_initialized",
+              "type": "t_uint64",
+              "src": "@openzeppelin/contracts/proxy/utils/Initializable.sol:69",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "Initializable",
+              "label": "_initializing",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts/proxy/utils/Initializable.sol:73",
+              "offset": 8,
+              "slot": "0"
+            }
+          ]
+        }
+      }
+    },
+    "d78f89a3d6d409edf65c2aede8fde0d7fd784254f5447f1b4cd12d0eca3278c6": {
+      "address": "0xDdaFc45523EAF9843BcF8b39Ace700Fec3139E46",
+      "txHash": "0x1f76be66ad8faf9937cea14e2e29507361f762002f758053927fdf0431e75b30",
+      "layout": {
+        "solcVersion": "0.8.24",
+        "storage": [],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)47_storage": {
+            "label": "uint256[47]",
+            "numberOfBytes": "1504"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_bytes32": {
+            "label": "bytes32",
+            "numberOfBytes": "32"
+          },
+          "t_contract(ICredentialDefinitionRegistry)2518": {
+            "label": "contract ICredentialDefinitionRegistry",
+            "numberOfBytes": "20"
+          },
+          "t_contract(IOrganizationRegistry)3019": {
+            "label": "contract IOrganizationRegistry",
+            "numberOfBytes": "20"
+          },
+          "t_enum(Status)2368": {
+            "label": "enum IAnonCredsStatusRegistry.Status",
+            "members": [
+              "Unknown",
+              "Issued",
+              "Revoked"
+            ],
+            "numberOfBytes": "1"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_mapping(t_bytes32,t_struct(Entry)1786_storage))": {
+            "label": "mapping(bytes32 => mapping(bytes32 => struct AnonCredsStatusRegistry.Entry))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_struct(Entry)1786_storage)": {
+            "label": "mapping(bytes32 => struct AnonCredsStatusRegistry.Entry)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_struct(RoleData)24_storage)": {
+            "label": "mapping(bytes32 => struct AccessControlUpgradeable.RoleData)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AccessControlStorage)34_storage": {
+            "label": "struct AccessControlUpgradeable.AccessControlStorage",
+            "members": [
+              {
+                "label": "_roles",
+                "type": "t_mapping(t_bytes32,t_struct(RoleData)24_storage)",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(AnonCredsStatusStorage)1805_storage": {
+            "label": "struct AnonCredsStatusRegistry.AnonCredsStatusStorage",
+            "members": [
+              {
+                "label": "entries",
+                "type": "t_mapping(t_bytes32,t_mapping(t_bytes32,t_struct(Entry)1786_storage))",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "credDefRegistry",
+                "type": "t_contract(ICredentialDefinitionRegistry)2518",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "orgRegistry",
+                "type": "t_contract(IOrganizationRegistry)3019",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "__gap",
+                "type": "t_array(t_uint256)47_storage",
+                "offset": 0,
+                "slot": "3"
+              }
+            ],
+            "numberOfBytes": "1600"
+          },
+          "t_struct(Entry)1786_storage": {
+            "label": "struct AnonCredsStatusRegistry.Entry",
+            "members": [
+              {
+                "label": "status",
+                "type": "t_enum(Status)2368",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "issuedAt",
+                "type": "t_uint64",
+                "offset": 1,
+                "slot": "0"
+              },
+              {
+                "label": "revokedAt",
+                "type": "t_uint64",
+                "offset": 9,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(InitializableStorage)818_storage": {
+            "label": "struct Initializable.InitializableStorage",
+            "members": [
+              {
+                "label": "_initialized",
+                "type": "t_uint64",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "_initializing",
+                "type": "t_bool",
+                "offset": 8,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(PausableStorage)187_storage": {
+            "label": "struct PausableUpgradeable.PausableStorage",
+            "members": [
+              {
+                "label": "_paused",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(RoleData)24_storage": {
+            "label": "struct AccessControlUpgradeable.RoleData",
+            "members": [
+              {
+                "label": "hasRole",
+                "type": "t_mapping(t_address,t_bool)",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "adminRole",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint64": {
+            "label": "uint64",
+            "numberOfBytes": "8"
+          }
+        },
+        "namespaces": {
+          "erc7201:kanon.AnonCredsStatusRegistry": [
+            {
+              "contract": "AnonCredsStatusRegistry",
+              "label": "entries",
+              "type": "t_mapping(t_bytes32,t_mapping(t_bytes32,t_struct(Entry)1786_storage))",
+              "src": "contracts/anoncreds/AnonCredsStatusRegistry.sol:37",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "AnonCredsStatusRegistry",
+              "label": "credDefRegistry",
+              "type": "t_contract(ICredentialDefinitionRegistry)2518",
+              "src": "contracts/anoncreds/AnonCredsStatusRegistry.sol:38",
+              "offset": 0,
+              "slot": "1"
+            },
+            {
+              "contract": "AnonCredsStatusRegistry",
+              "label": "orgRegistry",
+              "type": "t_contract(IOrganizationRegistry)3019",
+              "src": "contracts/anoncreds/AnonCredsStatusRegistry.sol:39",
+              "offset": 0,
+              "slot": "2"
+            },
+            {
+              "contract": "AnonCredsStatusRegistry",
+              "label": "__gap",
+              "type": "t_array(t_uint256)47_storage",
+              "src": "contracts/anoncreds/AnonCredsStatusRegistry.sol:40",
+              "offset": 0,
+              "slot": "3"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Pausable": [
+            {
+              "contract": "PausableUpgradeable",
+              "label": "_paused",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts-upgradeable/utils/PausableUpgradeable.sol:21",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.AccessControl": [
+            {
+              "contract": "AccessControlUpgradeable",
+              "label": "_roles",
+              "type": "t_mapping(t_bytes32,t_struct(RoleData)24_storage)",
+              "src": "@openzeppelin/contracts-upgradeable/access/AccessControlUpgradeable.sol:61",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Initializable": [
+            {
+              "contract": "Initializable",
+              "label": "_initialized",
+              "type": "t_uint64",
+              "src": "@openzeppelin/contracts/proxy/utils/Initializable.sol:69",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "Initializable",
+              "label": "_initializing",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts/proxy/utils/Initializable.sol:73",
+              "offset": 8,
+              "slot": "0"
+            }
+          ]
+        }
+      }
+    },
+    "4f8577a8da547633ec52f05415e72c75de7238fd2aa8083cc0ce2f1ac3e32224": {
+      "address": "0xA5f1DcDB2c034Ab61e96eD63F77EdE8Fb88a18A2",
+      "txHash": "0x1906c690c79d6614e500527013337b0772f9f54db94c12cfc61cae5653787e35",
+      "layout": {
+        "solcVersion": "0.8.24",
+        "storage": [],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)47_storage": {
+            "label": "uint256[47]",
+            "numberOfBytes": "1504"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_bytes32": {
+            "label": "bytes32",
+            "numberOfBytes": "32"
+          },
+          "t_bytes_storage": {
+            "label": "bytes",
+            "numberOfBytes": "32"
+          },
+          "t_contract(IOrganizationRegistry)2077": {
+            "label": "contract IOrganizationRegistry",
+            "numberOfBytes": "20"
+          },
+          "t_contract(ISchemaRegistry)2149": {
+            "label": "contract ISchemaRegistry",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_struct(CredentialDefinition)1664_storage)": {
+            "label": "mapping(bytes32 => struct ICredentialDefinitionRegistry.CredentialDefinition)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_struct(RoleData)24_storage)": {
+            "label": "mapping(bytes32 => struct AccessControlUpgradeable.RoleData)",
+            "numberOfBytes": "32"
+          },
+          "t_string_storage": {
+            "label": "string",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AccessControlStorage)34_storage": {
+            "label": "struct AccessControlUpgradeable.AccessControlStorage",
+            "members": [
+              {
+                "label": "_roles",
+                "type": "t_mapping(t_bytes32,t_struct(RoleData)24_storage)",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(CredDefStorage)1463_storage": {
+            "label": "struct CredentialDefinitionRegistry.CredDefStorage",
+            "members": [
+              {
+                "label": "credDefs",
+                "type": "t_mapping(t_bytes32,t_struct(CredentialDefinition)1664_storage)",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "schemaRegistry",
+                "type": "t_contract(ISchemaRegistry)2149",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "orgRegistry",
+                "type": "t_contract(IOrganizationRegistry)2077",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "__gap",
+                "type": "t_array(t_uint256)47_storage",
+                "offset": 0,
+                "slot": "3"
+              }
+            ],
+            "numberOfBytes": "1600"
+          },
+          "t_struct(CredentialDefinition)1664_storage": {
+            "label": "struct ICredentialDefinitionRegistry.CredentialDefinition",
+            "members": [
+              {
+                "label": "schemaId",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "issuerOrg",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "issuerPubKey",
+                "type": "t_bytes_storage",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "policyMask",
+                "type": "t_uint8",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "createdAt",
+                "type": "t_uint64",
+                "offset": 1,
+                "slot": "3"
+              },
+              {
+                "label": "deprecated",
+                "type": "t_bool",
+                "offset": 9,
+                "slot": "3"
+              },
+              {
+                "label": "uri",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "4"
+              }
+            ],
+            "numberOfBytes": "160"
+          },
+          "t_struct(InitializableStorage)432_storage": {
+            "label": "struct Initializable.InitializableStorage",
+            "members": [
+              {
+                "label": "_initialized",
+                "type": "t_uint64",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "_initializing",
+                "type": "t_bool",
+                "offset": 8,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(PausableStorage)187_storage": {
+            "label": "struct PausableUpgradeable.PausableStorage",
+            "members": [
+              {
+                "label": "_paused",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(RoleData)24_storage": {
+            "label": "struct AccessControlUpgradeable.RoleData",
+            "members": [
+              {
+                "label": "hasRole",
+                "type": "t_mapping(t_address,t_bool)",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "adminRole",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint64": {
+            "label": "uint64",
+            "numberOfBytes": "8"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        },
+        "namespaces": {
+          "erc7201:kanon.CredentialDefinitionRegistry": [
+            {
+              "contract": "CredentialDefinitionRegistry",
+              "label": "credDefs",
+              "type": "t_mapping(t_bytes32,t_struct(CredentialDefinition)1664_storage)",
+              "src": "contracts/creddefs/CredentialDefinitionRegistry.sol:37",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "CredentialDefinitionRegistry",
+              "label": "schemaRegistry",
+              "type": "t_contract(ISchemaRegistry)2149",
+              "src": "contracts/creddefs/CredentialDefinitionRegistry.sol:38",
+              "offset": 0,
+              "slot": "1"
+            },
+            {
+              "contract": "CredentialDefinitionRegistry",
+              "label": "orgRegistry",
+              "type": "t_contract(IOrganizationRegistry)2077",
+              "src": "contracts/creddefs/CredentialDefinitionRegistry.sol:39",
+              "offset": 0,
+              "slot": "2"
+            },
+            {
+              "contract": "CredentialDefinitionRegistry",
+              "label": "__gap",
+              "type": "t_array(t_uint256)47_storage",
+              "src": "contracts/creddefs/CredentialDefinitionRegistry.sol:40",
+              "offset": 0,
+              "slot": "3"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Pausable": [
+            {
+              "contract": "PausableUpgradeable",
+              "label": "_paused",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts-upgradeable/utils/PausableUpgradeable.sol:21",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.AccessControl": [
+            {
+              "contract": "AccessControlUpgradeable",
+              "label": "_roles",
+              "type": "t_mapping(t_bytes32,t_struct(RoleData)24_storage)",
+              "src": "@openzeppelin/contracts-upgradeable/access/AccessControlUpgradeable.sol:61",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Initializable": [
+            {
+              "contract": "Initializable",
+              "label": "_initialized",
+              "type": "t_uint64",
+              "src": "@openzeppelin/contracts/proxy/utils/Initializable.sol:69",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "Initializable",
+              "label": "_initializing",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts/proxy/utils/Initializable.sol:73",
+              "offset": 8,
+              "slot": "0"
+            }
+          ]
+        }
+      },
+      "allAddresses": [
+        "0xA5f1DcDB2c034Ab61e96eD63F77EdE8Fb88a18A2",
+        "0x63de17913a2E8fbBc5c4D8e7443dFcdb8a3F3B38"
+      ]
+    },
+    "71de816f920ab3949dae5ab54bb3245b84187f2d9620b4a71bdbef34581492c2": {
+      "address": "0x11f7dfa7A7D5539F79a10e9416640a5384769585",
+      "txHash": "0xcb81e4cf8735db290319f39d50580af80e4dea1da8e4beb9becf1e7380ca35cb",
+      "layout": {
+        "solcVersion": "0.8.24",
+        "storage": [],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_bytes32)16_storage": {
+            "label": "bytes32[16]",
+            "numberOfBytes": "512"
+          },
+          "t_array(t_uint256)41_storage": {
+            "label": "uint256[41]",
+            "numberOfBytes": "1312"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_bytes32": {
+            "label": "bytes32",
+            "numberOfBytes": "32"
+          },
+          "t_contract(Halo2VerifierRegistry)2663": {
+            "label": "contract Halo2VerifierRegistry",
+            "numberOfBytes": "20"
+          },
+          "t_contract(ICredentialDefinitionRegistry)1736": {
+            "label": "contract ICredentialDefinitionRegistry",
+            "numberOfBytes": "20"
+          },
+          "t_contract(IOrganizationRegistry)2077": {
+            "label": "contract IOrganizationRegistry",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_address)": {
+            "label": "mapping(bytes32 => address)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_array(t_bytes32)16_storage)": {
+            "label": "mapping(bytes32 => bytes32[16])",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_bool)": {
+            "label": "mapping(bytes32 => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_mapping(t_bytes32,t_bool))": {
+            "label": "mapping(bytes32 => mapping(bytes32 => bool))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_struct(MerkleState)1769_storage)": {
+            "label": "mapping(bytes32 => struct IMerkleStateRegistry.MerkleState)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_struct(RoleData)24_storage)": {
+            "label": "mapping(bytes32 => struct AccessControlUpgradeable.RoleData)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AccessControlStorage)34_storage": {
+            "label": "struct AccessControlUpgradeable.AccessControlStorage",
+            "members": [
+              {
+                "label": "_roles",
+                "type": "t_mapping(t_bytes32,t_struct(RoleData)24_storage)",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(InitializableStorage)432_storage": {
+            "label": "struct Initializable.InitializableStorage",
+            "members": [
+              {
+                "label": "_initialized",
+                "type": "t_uint64",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "_initializing",
+                "type": "t_bool",
+                "offset": 8,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(MerkleState)1769_storage": {
+            "label": "struct IMerkleStateRegistry.MerkleState",
+            "members": [
+              {
+                "label": "rootKeccak",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "rootPoseidon",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "epoch",
+                "type": "t_uint64",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "lastUpdated",
+                "type": "t_uint64",
+                "offset": 8,
+                "slot": "2"
+              },
+              {
+                "label": "issuedCount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "revokedCount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "4"
+              }
+            ],
+            "numberOfBytes": "160"
+          },
+          "t_struct(MsrStorage)2252_storage": {
+            "label": "struct MerkleStateRegistry.MsrStorage",
+            "members": [
+              {
+                "label": "state",
+                "type": "t_mapping(t_bytes32,t_struct(MerkleState)1769_storage)",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "recentKeccakRoots",
+                "type": "t_mapping(t_bytes32,t_array(t_bytes32)16_storage)",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "recentPoseidonRoots",
+                "type": "t_mapping(t_bytes32,t_array(t_bytes32)16_storage)",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "nullifierUsed",
+                "type": "t_mapping(t_bytes32,t_mapping(t_bytes32,t_bool))",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "zkVerifiers",
+                "type": "t_mapping(t_bytes32,t_address)",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "initialized",
+                "type": "t_mapping(t_bytes32,t_bool)",
+                "offset": 0,
+                "slot": "5"
+              },
+              {
+                "label": "credDefRegistry",
+                "type": "t_contract(ICredentialDefinitionRegistry)1736",
+                "offset": 0,
+                "slot": "6"
+              },
+              {
+                "label": "orgRegistry",
+                "type": "t_contract(IOrganizationRegistry)2077",
+                "offset": 0,
+                "slot": "7"
+              },
+              {
+                "label": "verifierRegistry",
+                "type": "t_contract(Halo2VerifierRegistry)2663",
+                "offset": 0,
+                "slot": "8"
+              },
+              {
+                "label": "reentrancyStatus",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "9"
+              },
+              {
+                "label": "__gap",
+                "type": "t_array(t_uint256)41_storage",
+                "offset": 0,
+                "slot": "10"
+              }
+            ],
+            "numberOfBytes": "1632"
+          },
+          "t_struct(PausableStorage)187_storage": {
+            "label": "struct PausableUpgradeable.PausableStorage",
+            "members": [
+              {
+                "label": "_paused",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(RoleData)24_storage": {
+            "label": "struct AccessControlUpgradeable.RoleData",
+            "members": [
+              {
+                "label": "hasRole",
+                "type": "t_mapping(t_address,t_bool)",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "adminRole",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint64": {
+            "label": "uint64",
+            "numberOfBytes": "8"
+          }
+        },
+        "namespaces": {
+          "erc7201:kanon.MerkleStateRegistry": [
+            {
+              "contract": "MerkleStateRegistry",
+              "label": "state",
+              "type": "t_mapping(t_bytes32,t_struct(MerkleState)1769_storage)",
+              "src": "contracts/state/MerkleStateRegistry.sol:43",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "MerkleStateRegistry",
+              "label": "recentKeccakRoots",
+              "type": "t_mapping(t_bytes32,t_array(t_bytes32)16_storage)",
+              "src": "contracts/state/MerkleStateRegistry.sol:44",
+              "offset": 0,
+              "slot": "1"
+            },
+            {
+              "contract": "MerkleStateRegistry",
+              "label": "recentPoseidonRoots",
+              "type": "t_mapping(t_bytes32,t_array(t_bytes32)16_storage)",
+              "src": "contracts/state/MerkleStateRegistry.sol:45",
+              "offset": 0,
+              "slot": "2"
+            },
+            {
+              "contract": "MerkleStateRegistry",
+              "label": "nullifierUsed",
+              "type": "t_mapping(t_bytes32,t_mapping(t_bytes32,t_bool))",
+              "src": "contracts/state/MerkleStateRegistry.sol:46",
+              "offset": 0,
+              "slot": "3"
+            },
+            {
+              "contract": "MerkleStateRegistry",
+              "label": "zkVerifiers",
+              "type": "t_mapping(t_bytes32,t_address)",
+              "src": "contracts/state/MerkleStateRegistry.sol:47",
+              "offset": 0,
+              "slot": "4"
+            },
+            {
+              "contract": "MerkleStateRegistry",
+              "label": "initialized",
+              "type": "t_mapping(t_bytes32,t_bool)",
+              "src": "contracts/state/MerkleStateRegistry.sol:48",
+              "offset": 0,
+              "slot": "5"
+            },
+            {
+              "contract": "MerkleStateRegistry",
+              "label": "credDefRegistry",
+              "type": "t_contract(ICredentialDefinitionRegistry)1736",
+              "src": "contracts/state/MerkleStateRegistry.sol:49",
+              "offset": 0,
+              "slot": "6"
+            },
+            {
+              "contract": "MerkleStateRegistry",
+              "label": "orgRegistry",
+              "type": "t_contract(IOrganizationRegistry)2077",
+              "src": "contracts/state/MerkleStateRegistry.sol:50",
+              "offset": 0,
+              "slot": "7"
+            },
+            {
+              "contract": "MerkleStateRegistry",
+              "label": "verifierRegistry",
+              "type": "t_contract(Halo2VerifierRegistry)2663",
+              "src": "contracts/state/MerkleStateRegistry.sol:51",
+              "offset": 0,
+              "slot": "8"
+            },
+            {
+              "contract": "MerkleStateRegistry",
+              "label": "reentrancyStatus",
+              "type": "t_uint256",
+              "src": "contracts/state/MerkleStateRegistry.sol:52",
+              "offset": 0,
+              "slot": "9"
+            },
+            {
+              "contract": "MerkleStateRegistry",
+              "label": "__gap",
+              "type": "t_array(t_uint256)41_storage",
+              "src": "contracts/state/MerkleStateRegistry.sol:53",
+              "offset": 0,
+              "slot": "10"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Pausable": [
+            {
+              "contract": "PausableUpgradeable",
+              "label": "_paused",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts-upgradeable/utils/PausableUpgradeable.sol:21",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.AccessControl": [
+            {
+              "contract": "AccessControlUpgradeable",
+              "label": "_roles",
+              "type": "t_mapping(t_bytes32,t_struct(RoleData)24_storage)",
+              "src": "@openzeppelin/contracts-upgradeable/access/AccessControlUpgradeable.sol:61",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Initializable": [
+            {
+              "contract": "Initializable",
+              "label": "_initialized",
+              "type": "t_uint64",
+              "src": "@openzeppelin/contracts/proxy/utils/Initializable.sol:69",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "Initializable",
+              "label": "_initializing",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts/proxy/utils/Initializable.sol:73",
+              "offset": 8,
+              "slot": "0"
+            }
+          ]
+        }
+      }
+    },
+    "81d06f7be67311efa171da3ea9a869a60ef6285cc0fcab99f77033e9f33ad444": {
+      "address": "0x2470522D707402c97b0ae42924202f2F538058Ac",
+      "txHash": "0xc0a0bfaeecf9cb5dfd7e428d928da8f59d047e2519964eca38601dfe81d56932",
+      "layout": {
+        "solcVersion": "0.8.24",
+        "storage": [],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)47_storage": {
+            "label": "uint256[47]",
+            "numberOfBytes": "1504"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_bytes32": {
+            "label": "bytes32",
+            "numberOfBytes": "32"
+          },
+          "t_contract(ICredentialDefinitionRegistry)1736": {
+            "label": "contract ICredentialDefinitionRegistry",
+            "numberOfBytes": "20"
+          },
+          "t_contract(IOrganizationRegistry)2077": {
+            "label": "contract IOrganizationRegistry",
+            "numberOfBytes": "20"
+          },
+          "t_enum(Status)1582": {
+            "label": "enum IAnonCredsStatusRegistry.Status",
+            "members": [
+              "Unknown",
+              "Issued",
+              "Revoked"
+            ],
+            "numberOfBytes": "1"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_mapping(t_bytes32,t_struct(Entry)1237_storage))": {
+            "label": "mapping(bytes32 => mapping(bytes32 => struct AnonCredsStatusRegistry.Entry))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_struct(Entry)1237_storage)": {
+            "label": "mapping(bytes32 => struct AnonCredsStatusRegistry.Entry)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_struct(RoleData)24_storage)": {
+            "label": "mapping(bytes32 => struct AccessControlUpgradeable.RoleData)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AccessControlStorage)34_storage": {
+            "label": "struct AccessControlUpgradeable.AccessControlStorage",
+            "members": [
+              {
+                "label": "_roles",
+                "type": "t_mapping(t_bytes32,t_struct(RoleData)24_storage)",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(AnonCredsStatusStorage)1256_storage": {
+            "label": "struct AnonCredsStatusRegistry.AnonCredsStatusStorage",
+            "members": [
+              {
+                "label": "entries",
+                "type": "t_mapping(t_bytes32,t_mapping(t_bytes32,t_struct(Entry)1237_storage))",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "credDefRegistry",
+                "type": "t_contract(ICredentialDefinitionRegistry)1736",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "orgRegistry",
+                "type": "t_contract(IOrganizationRegistry)2077",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "__gap",
+                "type": "t_array(t_uint256)47_storage",
+                "offset": 0,
+                "slot": "3"
+              }
+            ],
+            "numberOfBytes": "1600"
+          },
+          "t_struct(Entry)1237_storage": {
+            "label": "struct AnonCredsStatusRegistry.Entry",
+            "members": [
+              {
+                "label": "status",
+                "type": "t_enum(Status)1582",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "issuedAt",
+                "type": "t_uint64",
+                "offset": 1,
+                "slot": "0"
+              },
+              {
+                "label": "revokedAt",
+                "type": "t_uint64",
+                "offset": 9,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(InitializableStorage)432_storage": {
+            "label": "struct Initializable.InitializableStorage",
+            "members": [
+              {
+                "label": "_initialized",
+                "type": "t_uint64",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "_initializing",
+                "type": "t_bool",
+                "offset": 8,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(PausableStorage)187_storage": {
+            "label": "struct PausableUpgradeable.PausableStorage",
+            "members": [
+              {
+                "label": "_paused",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(RoleData)24_storage": {
+            "label": "struct AccessControlUpgradeable.RoleData",
+            "members": [
+              {
+                "label": "hasRole",
+                "type": "t_mapping(t_address,t_bool)",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "adminRole",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint64": {
+            "label": "uint64",
+            "numberOfBytes": "8"
+          }
+        },
+        "namespaces": {
+          "erc7201:kanon.AnonCredsStatusRegistry": [
+            {
+              "contract": "AnonCredsStatusRegistry",
+              "label": "entries",
+              "type": "t_mapping(t_bytes32,t_mapping(t_bytes32,t_struct(Entry)1237_storage))",
+              "src": "contracts/anoncreds/AnonCredsStatusRegistry.sol:37",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "AnonCredsStatusRegistry",
+              "label": "credDefRegistry",
+              "type": "t_contract(ICredentialDefinitionRegistry)1736",
+              "src": "contracts/anoncreds/AnonCredsStatusRegistry.sol:38",
+              "offset": 0,
+              "slot": "1"
+            },
+            {
+              "contract": "AnonCredsStatusRegistry",
+              "label": "orgRegistry",
+              "type": "t_contract(IOrganizationRegistry)2077",
+              "src": "contracts/anoncreds/AnonCredsStatusRegistry.sol:39",
+              "offset": 0,
+              "slot": "2"
+            },
+            {
+              "contract": "AnonCredsStatusRegistry",
+              "label": "__gap",
+              "type": "t_array(t_uint256)47_storage",
+              "src": "contracts/anoncreds/AnonCredsStatusRegistry.sol:40",
+              "offset": 0,
+              "slot": "3"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Pausable": [
+            {
+              "contract": "PausableUpgradeable",
+              "label": "_paused",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts-upgradeable/utils/PausableUpgradeable.sol:21",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.AccessControl": [
+            {
+              "contract": "AccessControlUpgradeable",
+              "label": "_roles",
+              "type": "t_mapping(t_bytes32,t_struct(RoleData)24_storage)",
+              "src": "@openzeppelin/contracts-upgradeable/access/AccessControlUpgradeable.sol:61",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Initializable": [
+            {
+              "contract": "Initializable",
+              "label": "_initialized",
+              "type": "t_uint64",
+              "src": "@openzeppelin/contracts/proxy/utils/Initializable.sol:69",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "Initializable",
+              "label": "_initializing",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts/proxy/utils/Initializable.sol:73",
+              "offset": 8,
+              "slot": "0"
+            }
+          ]
+        }
+      }
+    },
+    "ab9772edbf87d039154c0a42272f9c4a8e77d5f50d66b938f854ce3aa52e1df3": {
+      "address": "0xFC5978BC156F886b5e3EaD3326976FD97237f09f",
+      "txHash": "0x13bba0af2b00b5981108d2f4ff1eb81513afdee590456a34636195cb7d08d360",
+      "layout": {
+        "solcVersion": "0.8.24",
+        "storage": [],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)43_storage": {
+            "label": "uint256[43]",
+            "numberOfBytes": "1376"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_bytes32": {
+            "label": "bytes32",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_struct(RoleData)24_storage)": {
+            "label": "mapping(bytes32 => struct AccessControlUpgradeable.RoleData)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AccessControlStorage)34_storage": {
+            "label": "struct AccessControlUpgradeable.AccessControlStorage",
+            "members": [
+              {
+                "label": "_roles",
+                "type": "t_mapping(t_bytes32,t_struct(RoleData)24_storage)",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(AddressBookStorage)829_storage": {
+            "label": "struct KanonAddressBook.AddressBookStorage",
+            "members": [
+              {
+                "label": "r",
+                "type": "t_struct(Registries)928_storage",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "__gap",
+                "type": "t_array(t_uint256)43_storage",
+                "offset": 0,
+                "slot": "7"
+              }
+            ],
+            "numberOfBytes": "1600"
+          },
+          "t_struct(InitializableStorage)370_storage": {
+            "label": "struct Initializable.InitializableStorage",
+            "members": [
+              {
+                "label": "_initialized",
+                "type": "t_uint64",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "_initializing",
+                "type": "t_bool",
+                "offset": 8,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(Registries)928_storage": {
+            "label": "struct IKanonAddressBook.Registries",
+            "members": [
+              {
+                "label": "organizationRegistry",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "didRegistry",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "schemaRegistry",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "credentialDefinitionRegistry",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "merkleStateRegistry",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "anonCredsStatusRegistry",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "5"
+              },
+              {
+                "label": "halo2VerifierRegistry",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "6"
+              }
+            ],
+            "numberOfBytes": "224"
+          },
+          "t_struct(RoleData)24_storage": {
+            "label": "struct AccessControlUpgradeable.RoleData",
+            "members": [
+              {
+                "label": "hasRole",
+                "type": "t_mapping(t_address,t_bool)",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "adminRole",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint64": {
+            "label": "uint64",
+            "numberOfBytes": "8"
+          }
+        },
+        "namespaces": {
+          "erc7201:kanon.KanonAddressBook": [
+            {
+              "contract": "KanonAddressBook",
+              "label": "r",
+              "type": "t_struct(Registries)928_storage",
+              "src": "contracts/KanonAddressBook.sol:21",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "KanonAddressBook",
+              "label": "__gap",
+              "type": "t_array(t_uint256)43_storage",
+              "src": "contracts/KanonAddressBook.sol:22",
+              "offset": 0,
+              "slot": "7"
+            }
+          ],
+          "erc7201:openzeppelin.storage.AccessControl": [
+            {
+              "contract": "AccessControlUpgradeable",
+              "label": "_roles",
+              "type": "t_mapping(t_bytes32,t_struct(RoleData)24_storage)",
+              "src": "@openzeppelin/contracts-upgradeable/access/AccessControlUpgradeable.sol:61",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Initializable": [
+            {
+              "contract": "Initializable",
+              "label": "_initialized",
+              "type": "t_uint64",
+              "src": "@openzeppelin/contracts/proxy/utils/Initializable.sol:69",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "Initializable",
+              "label": "_initializing",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts/proxy/utils/Initializable.sol:73",
+              "offset": 8,
+              "slot": "0"
+            }
+          ]
+        }
+      }
+    },
+    "2bb181594e9436d55c3401f53440594d3d19dff4efaac52252d27ad078ff9d6a": {
+      "address": "0x75aDb75460b9ff081A11E611E29555d123dd06f7",
+      "txHash": "0x86430642c3b678a85a22e6d719dfe14c7e88991bad47e2419e3ce0f580d81a78",
+      "layout": {
+        "solcVersion": "0.8.24",
+        "storage": [],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)47_storage": {
+            "label": "uint256[47]",
+            "numberOfBytes": "1504"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_bytes32": {
+            "label": "bytes32",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_mapping(t_address,t_bool))": {
+            "label": "mapping(bytes32 => mapping(address => bool))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_struct(Organization)2349_storage)": {
+            "label": "mapping(bytes32 => struct IOrganizationRegistry.Organization)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_struct(RoleData)24_storage)": {
+            "label": "mapping(bytes32 => struct AccessControlUpgradeable.RoleData)",
+            "numberOfBytes": "32"
+          },
+          "t_string_storage": {
+            "label": "string",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AccessControlStorage)34_storage": {
+            "label": "struct AccessControlUpgradeable.AccessControlStorage",
+            "members": [
+              {
+                "label": "_roles",
+                "type": "t_mapping(t_bytes32,t_struct(RoleData)24_storage)",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(InitializableStorage)432_storage": {
+            "label": "struct Initializable.InitializableStorage",
+            "members": [
+              {
+                "label": "_initialized",
+                "type": "t_uint64",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "_initializing",
+                "type": "t_bool",
+                "offset": 8,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(OrgStorage)2592_storage": {
+            "label": "struct OrganizationRegistry.OrgStorage",
+            "members": [
+              {
+                "label": "orgs",
+                "type": "t_mapping(t_bytes32,t_struct(Organization)2349_storage)",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "members",
+                "type": "t_mapping(t_bytes32,t_mapping(t_address,t_bool))",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "nonce",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "__gap",
+                "type": "t_array(t_uint256)47_storage",
+                "offset": 0,
+                "slot": "3"
+              }
+            ],
+            "numberOfBytes": "1600"
+          },
+          "t_struct(Organization)2349_storage": {
+            "label": "struct IOrganizationRegistry.Organization",
+            "members": [
+              {
+                "label": "did",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "admin",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "approved",
+                "type": "t_bool",
+                "offset": 20,
+                "slot": "1"
+              },
+              {
+                "label": "suspended",
+                "type": "t_bool",
+                "offset": 21,
+                "slot": "1"
+              },
+              {
+                "label": "createdAt",
+                "type": "t_uint64",
+                "offset": 22,
+                "slot": "1"
+              },
+              {
+                "label": "approvedAt",
+                "type": "t_uint64",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_struct(PausableStorage)187_storage": {
+            "label": "struct PausableUpgradeable.PausableStorage",
+            "members": [
+              {
+                "label": "_paused",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(RoleData)24_storage": {
+            "label": "struct AccessControlUpgradeable.RoleData",
+            "members": [
+              {
+                "label": "hasRole",
+                "type": "t_mapping(t_address,t_bool)",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "adminRole",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint64": {
+            "label": "uint64",
+            "numberOfBytes": "8"
+          }
+        },
+        "namespaces": {
+          "erc7201:kanon.OrganizationRegistry": [
+            {
+              "contract": "OrganizationRegistry",
+              "label": "orgs",
+              "type": "t_mapping(t_bytes32,t_struct(Organization)2349_storage)",
+              "src": "contracts/orgs/OrganizationRegistry.sol:27",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "OrganizationRegistry",
+              "label": "members",
+              "type": "t_mapping(t_bytes32,t_mapping(t_address,t_bool))",
+              "src": "contracts/orgs/OrganizationRegistry.sol:28",
+              "offset": 0,
+              "slot": "1"
+            },
+            {
+              "contract": "OrganizationRegistry",
+              "label": "nonce",
+              "type": "t_uint256",
+              "src": "contracts/orgs/OrganizationRegistry.sol:29",
+              "offset": 0,
+              "slot": "2"
+            },
+            {
+              "contract": "OrganizationRegistry",
+              "label": "__gap",
+              "type": "t_array(t_uint256)47_storage",
+              "src": "contracts/orgs/OrganizationRegistry.sol:30",
+              "offset": 0,
+              "slot": "3"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Pausable": [
+            {
+              "contract": "PausableUpgradeable",
+              "label": "_paused",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts-upgradeable/utils/PausableUpgradeable.sol:21",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.AccessControl": [
+            {
+              "contract": "AccessControlUpgradeable",
+              "label": "_roles",
+              "type": "t_mapping(t_bytes32,t_struct(RoleData)24_storage)",
+              "src": "@openzeppelin/contracts-upgradeable/access/AccessControlUpgradeable.sol:61",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Initializable": [
+            {
+              "contract": "Initializable",
+              "label": "_initialized",
+              "type": "t_uint64",
+              "src": "@openzeppelin/contracts/proxy/utils/Initializable.sol:69",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "Initializable",
+              "label": "_initializing",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts/proxy/utils/Initializable.sol:73",
+              "offset": 8,
+              "slot": "0"
+            }
+          ]
+        }
+      }
+    },
+    "2fd94e17a82faadaa4f007f8b2d66f5fa80e1cd6f9be2000f43d25ae229e92c2": {
+      "address": "0xce669F2B45f8e67e16b0F105da6ABe7C1261134F",
+      "txHash": "0x99b3ca21b9862dde4c1953d60a286a1f79d8a65148bd6a11ceaf28afbcabc375",
+      "layout": {
+        "solcVersion": "0.8.24",
+        "storage": [],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_bytes32)dyn_storage": {
+            "label": "bytes32[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_struct(Service)1991_storage)dyn_storage": {
+            "label": "struct IDIDRegistry.Service[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_struct(VerificationMethod)1984_storage)dyn_storage": {
+            "label": "struct IDIDRegistry.VerificationMethod[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)46_storage": {
+            "label": "uint256[46]",
+            "numberOfBytes": "1472"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_bytes32": {
+            "label": "bytes32",
+            "numberOfBytes": "32"
+          },
+          "t_bytes_storage": {
+            "label": "bytes",
+            "numberOfBytes": "32"
+          },
+          "t_contract(IOrganizationRegistry)2464": {
+            "label": "contract IOrganizationRegistry",
+            "numberOfBytes": "20"
+          },
+          "t_enum(DIDScope)1976": {
+            "label": "enum IDIDRegistry.DIDScope",
+            "members": [
+              "User",
+              "Org"
+            ],
+            "numberOfBytes": "1"
+          },
+          "t_enum(VerificationMethodType)1973": {
+            "label": "enum IDIDRegistry.VerificationMethodType",
+            "members": [
+              "Ed25519VerificationKey2020",
+              "EcdsaSecp256k1VerificationKey2019",
+              "Bls12381G2Key2020",
+              "JsonWebKey2020"
+            ],
+            "numberOfBytes": "1"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_struct(RoleData)24_storage)": {
+            "label": "mapping(bytes32 => struct AccessControlUpgradeable.RoleData)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_string_memory_ptr,t_address)": {
+            "label": "mapping(string => address)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_string_memory_ptr,t_bool)": {
+            "label": "mapping(string => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_string_memory_ptr,t_struct(DIDDocument)2030_storage)": {
+            "label": "mapping(string => struct IDIDRegistry.DIDDocument)",
+            "numberOfBytes": "32"
+          },
+          "t_string_memory_ptr": {
+            "label": "string",
+            "numberOfBytes": "32"
+          },
+          "t_string_storage": {
+            "label": "string",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AccessControlStorage)34_storage": {
+            "label": "struct AccessControlUpgradeable.AccessControlStorage",
+            "members": [
+              {
+                "label": "_roles",
+                "type": "t_mapping(t_bytes32,t_struct(RoleData)24_storage)",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(DIDDocument)2030_storage": {
+            "label": "struct IDIDRegistry.DIDDocument",
+            "members": [
+              {
+                "label": "controller",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "orgId",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "scope",
+                "type": "t_enum(DIDScope)1976",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "verificationMethods",
+                "type": "t_array(t_struct(VerificationMethod)1984_storage)dyn_storage",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "authentication",
+                "type": "t_array(t_bytes32)dyn_storage",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "assertionMethod",
+                "type": "t_array(t_bytes32)dyn_storage",
+                "offset": 0,
+                "slot": "5"
+              },
+              {
+                "label": "capabilityInvocation",
+                "type": "t_array(t_bytes32)dyn_storage",
+                "offset": 0,
+                "slot": "6"
+              },
+              {
+                "label": "capabilityDelegation",
+                "type": "t_array(t_bytes32)dyn_storage",
+                "offset": 0,
+                "slot": "7"
+              },
+              {
+                "label": "keyAgreement",
+                "type": "t_array(t_bytes32)dyn_storage",
+                "offset": 0,
+                "slot": "8"
+              },
+              {
+                "label": "services",
+                "type": "t_array(t_struct(Service)1991_storage)dyn_storage",
+                "offset": 0,
+                "slot": "9"
+              },
+              {
+                "label": "docHash",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "10"
+              },
+              {
+                "label": "createdAt",
+                "type": "t_uint64",
+                "offset": 0,
+                "slot": "11"
+              },
+              {
+                "label": "updatedAt",
+                "type": "t_uint64",
+                "offset": 8,
+                "slot": "11"
+              },
+              {
+                "label": "deactivated",
+                "type": "t_bool",
+                "offset": 16,
+                "slot": "11"
+              }
+            ],
+            "numberOfBytes": "384"
+          },
+          "t_struct(DIDStorage)1646_storage": {
+            "label": "struct DIDRegistry.DIDStorage",
+            "members": [
+              {
+                "label": "docs",
+                "type": "t_mapping(t_string_memory_ptr,t_struct(DIDDocument)2030_storage)",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "controllers",
+                "type": "t_mapping(t_string_memory_ptr,t_address)",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "exists_",
+                "type": "t_mapping(t_string_memory_ptr,t_bool)",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "orgRegistry",
+                "type": "t_contract(IOrganizationRegistry)2464",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "__gap",
+                "type": "t_array(t_uint256)46_storage",
+                "offset": 0,
+                "slot": "4"
+              }
+            ],
+            "numberOfBytes": "1600"
+          },
+          "t_struct(InitializableStorage)432_storage": {
+            "label": "struct Initializable.InitializableStorage",
+            "members": [
+              {
+                "label": "_initialized",
+                "type": "t_uint64",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "_initializing",
+                "type": "t_bool",
+                "offset": 8,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(PausableStorage)187_storage": {
+            "label": "struct PausableUpgradeable.PausableStorage",
+            "members": [
+              {
+                "label": "_paused",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(RoleData)24_storage": {
+            "label": "struct AccessControlUpgradeable.RoleData",
+            "members": [
+              {
+                "label": "hasRole",
+                "type": "t_mapping(t_address,t_bool)",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "adminRole",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_struct(Service)1991_storage": {
+            "label": "struct IDIDRegistry.Service",
+            "members": [
+              {
+                "label": "id",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "serviceType",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "endpoint",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_struct(VerificationMethod)1984_storage": {
+            "label": "struct IDIDRegistry.VerificationMethod",
+            "members": [
+              {
+                "label": "id",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "vmType",
+                "type": "t_enum(VerificationMethodType)1973",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "publicKey",
+                "type": "t_bytes_storage",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint64": {
+            "label": "uint64",
+            "numberOfBytes": "8"
+          }
+        },
+        "namespaces": {
+          "erc7201:kanon.DIDRegistry": [
+            {
+              "contract": "DIDRegistry",
+              "label": "docs",
+              "type": "t_mapping(t_string_memory_ptr,t_struct(DIDDocument)2030_storage)",
+              "src": "contracts/did/DIDRegistry.sol:40",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "DIDRegistry",
+              "label": "controllers",
+              "type": "t_mapping(t_string_memory_ptr,t_address)",
+              "src": "contracts/did/DIDRegistry.sol:41",
+              "offset": 0,
+              "slot": "1"
+            },
+            {
+              "contract": "DIDRegistry",
+              "label": "exists_",
+              "type": "t_mapping(t_string_memory_ptr,t_bool)",
+              "src": "contracts/did/DIDRegistry.sol:42",
+              "offset": 0,
+              "slot": "2"
+            },
+            {
+              "contract": "DIDRegistry",
+              "label": "orgRegistry",
+              "type": "t_contract(IOrganizationRegistry)2464",
+              "src": "contracts/did/DIDRegistry.sol:43",
+              "offset": 0,
+              "slot": "3"
+            },
+            {
+              "contract": "DIDRegistry",
+              "label": "__gap",
+              "type": "t_array(t_uint256)46_storage",
+              "src": "contracts/did/DIDRegistry.sol:44",
+              "offset": 0,
+              "slot": "4"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Pausable": [
+            {
+              "contract": "PausableUpgradeable",
+              "label": "_paused",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts-upgradeable/utils/PausableUpgradeable.sol:21",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.AccessControl": [
+            {
+              "contract": "AccessControlUpgradeable",
+              "label": "_roles",
+              "type": "t_mapping(t_bytes32,t_struct(RoleData)24_storage)",
+              "src": "@openzeppelin/contracts-upgradeable/access/AccessControlUpgradeable.sol:61",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Initializable": [
+            {
+              "contract": "Initializable",
+              "label": "_initialized",
+              "type": "t_uint64",
+              "src": "@openzeppelin/contracts/proxy/utils/Initializable.sol:69",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "Initializable",
+              "label": "_initializing",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts/proxy/utils/Initializable.sol:73",
+              "offset": 8,
+              "slot": "0"
+            }
+          ]
+        }
+      }
+    },
+    "e6a996391b40954744dc80fdcfdf92fba0023edb2ccdf9b73d7703a138661541": {
+      "address": "0x5d2A108B702bd0da30DB00A682B46A22f97F1b0A",
+      "txHash": "0xaa7bdd3cd351c97c89a699ab00ff69a24ae31a0546e3dddc5a755cfb68581cfa",
+      "layout": {
+        "solcVersion": "0.8.24",
+        "storage": [],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)48_storage": {
+            "label": "uint256[48]",
+            "numberOfBytes": "1536"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_bytes32": {
+            "label": "bytes32",
+            "numberOfBytes": "32"
+          },
+          "t_contract(IOrganizationRegistry)2464": {
+            "label": "contract IOrganizationRegistry",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_struct(RoleData)24_storage)": {
+            "label": "mapping(bytes32 => struct AccessControlUpgradeable.RoleData)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_struct(Schema)2477_storage)": {
+            "label": "mapping(bytes32 => struct ISchemaRegistry.Schema)",
+            "numberOfBytes": "32"
+          },
+          "t_string_storage": {
+            "label": "string",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AccessControlStorage)34_storage": {
+            "label": "struct AccessControlUpgradeable.AccessControlStorage",
+            "members": [
+              {
+                "label": "_roles",
+                "type": "t_mapping(t_bytes32,t_struct(RoleData)24_storage)",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(InitializableStorage)432_storage": {
+            "label": "struct Initializable.InitializableStorage",
+            "members": [
+              {
+                "label": "_initialized",
+                "type": "t_uint64",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "_initializing",
+                "type": "t_bool",
+                "offset": 8,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(PausableStorage)187_storage": {
+            "label": "struct PausableUpgradeable.PausableStorage",
+            "members": [
+              {
+                "label": "_paused",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(RoleData)24_storage": {
+            "label": "struct AccessControlUpgradeable.RoleData",
+            "members": [
+              {
+                "label": "hasRole",
+                "type": "t_mapping(t_address,t_bool)",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "adminRole",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_struct(Schema)2477_storage": {
+            "label": "struct ISchemaRegistry.Schema",
+            "members": [
+              {
+                "label": "issuerOrg",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "schemaHash",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "uri",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "createdAt",
+                "type": "t_uint64",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "deprecated",
+                "type": "t_bool",
+                "offset": 8,
+                "slot": "3"
+              }
+            ],
+            "numberOfBytes": "128"
+          },
+          "t_struct(SchemaStorage)2766_storage": {
+            "label": "struct SchemaRegistry.SchemaStorage",
+            "members": [
+              {
+                "label": "schemas",
+                "type": "t_mapping(t_bytes32,t_struct(Schema)2477_storage)",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "orgRegistry",
+                "type": "t_contract(IOrganizationRegistry)2464",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "__gap",
+                "type": "t_array(t_uint256)48_storage",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "1600"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint64": {
+            "label": "uint64",
+            "numberOfBytes": "8"
+          }
+        },
+        "namespaces": {
+          "erc7201:kanon.SchemaRegistry": [
+            {
+              "contract": "SchemaRegistry",
+              "label": "schemas",
+              "type": "t_mapping(t_bytes32,t_struct(Schema)2477_storage)",
+              "src": "contracts/schemas/SchemaRegistry.sol:29",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "SchemaRegistry",
+              "label": "orgRegistry",
+              "type": "t_contract(IOrganizationRegistry)2464",
+              "src": "contracts/schemas/SchemaRegistry.sol:30",
+              "offset": 0,
+              "slot": "1"
+            },
+            {
+              "contract": "SchemaRegistry",
+              "label": "__gap",
+              "type": "t_array(t_uint256)48_storage",
+              "src": "contracts/schemas/SchemaRegistry.sol:31",
+              "offset": 0,
+              "slot": "2"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Pausable": [
+            {
+              "contract": "PausableUpgradeable",
+              "label": "_paused",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts-upgradeable/utils/PausableUpgradeable.sol:21",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.AccessControl": [
+            {
+              "contract": "AccessControlUpgradeable",
+              "label": "_roles",
+              "type": "t_mapping(t_bytes32,t_struct(RoleData)24_storage)",
+              "src": "@openzeppelin/contracts-upgradeable/access/AccessControlUpgradeable.sol:61",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Initializable": [
+            {
+              "contract": "Initializable",
+              "label": "_initialized",
+              "type": "t_uint64",
+              "src": "@openzeppelin/contracts/proxy/utils/Initializable.sol:69",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "Initializable",
+              "label": "_initializing",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts/proxy/utils/Initializable.sol:73",
+              "offset": 8,
+              "slot": "0"
+            }
+          ]
+        }
+      }
+    },
+    "027ec5babfdc9eec08a2957b2ace8967e2ca1336eb51596e771e10dd49d9557d": {
+      "address": "0x79457E25c0D41EDD9e612A6Fb8a8628261963d16",
+      "txHash": "0x6dd3116051778e41286bf6fbdadc764f2d3a7a28c6a9a48b769a4dc0eaf914cb",
+      "layout": {
+        "solcVersion": "0.8.24",
+        "storage": [],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)47_storage": {
+            "label": "uint256[47]",
+            "numberOfBytes": "1504"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_bytes32": {
+            "label": "bytes32",
+            "numberOfBytes": "32"
+          },
+          "t_bytes_storage": {
+            "label": "bytes",
+            "numberOfBytes": "32"
+          },
+          "t_contract(IOrganizationRegistry)2464": {
+            "label": "contract IOrganizationRegistry",
+            "numberOfBytes": "20"
+          },
+          "t_contract(ISchemaRegistry)2536": {
+            "label": "contract ISchemaRegistry",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_struct(CredentialDefinition)1894_storage)": {
+            "label": "mapping(bytes32 => struct ICredentialDefinitionRegistry.CredentialDefinition)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_struct(RoleData)24_storage)": {
+            "label": "mapping(bytes32 => struct AccessControlUpgradeable.RoleData)",
+            "numberOfBytes": "32"
+          },
+          "t_string_storage": {
+            "label": "string",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AccessControlStorage)34_storage": {
+            "label": "struct AccessControlUpgradeable.AccessControlStorage",
+            "members": [
+              {
+                "label": "_roles",
+                "type": "t_mapping(t_bytes32,t_struct(RoleData)24_storage)",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(CredDefStorage)1463_storage": {
+            "label": "struct CredentialDefinitionRegistry.CredDefStorage",
+            "members": [
+              {
+                "label": "credDefs",
+                "type": "t_mapping(t_bytes32,t_struct(CredentialDefinition)1894_storage)",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "schemaRegistry",
+                "type": "t_contract(ISchemaRegistry)2536",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "orgRegistry",
+                "type": "t_contract(IOrganizationRegistry)2464",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "__gap",
+                "type": "t_array(t_uint256)47_storage",
+                "offset": 0,
+                "slot": "3"
+              }
+            ],
+            "numberOfBytes": "1600"
+          },
+          "t_struct(CredentialDefinition)1894_storage": {
+            "label": "struct ICredentialDefinitionRegistry.CredentialDefinition",
+            "members": [
+              {
+                "label": "schemaId",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "issuerOrg",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "issuerPubKey",
+                "type": "t_bytes_storage",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "policyMask",
+                "type": "t_uint8",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "createdAt",
+                "type": "t_uint64",
+                "offset": 1,
+                "slot": "3"
+              },
+              {
+                "label": "deprecated",
+                "type": "t_bool",
+                "offset": 9,
+                "slot": "3"
+              },
+              {
+                "label": "uri",
+                "type": "t_string_storage",
+                "offset": 0,
+                "slot": "4"
+              }
+            ],
+            "numberOfBytes": "160"
+          },
+          "t_struct(InitializableStorage)432_storage": {
+            "label": "struct Initializable.InitializableStorage",
+            "members": [
+              {
+                "label": "_initialized",
+                "type": "t_uint64",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "_initializing",
+                "type": "t_bool",
+                "offset": 8,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(PausableStorage)187_storage": {
+            "label": "struct PausableUpgradeable.PausableStorage",
+            "members": [
+              {
+                "label": "_paused",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(RoleData)24_storage": {
+            "label": "struct AccessControlUpgradeable.RoleData",
+            "members": [
+              {
+                "label": "hasRole",
+                "type": "t_mapping(t_address,t_bool)",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "adminRole",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint64": {
+            "label": "uint64",
+            "numberOfBytes": "8"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        },
+        "namespaces": {
+          "erc7201:kanon.CredentialDefinitionRegistry": [
+            {
+              "contract": "CredentialDefinitionRegistry",
+              "label": "credDefs",
+              "type": "t_mapping(t_bytes32,t_struct(CredentialDefinition)1894_storage)",
+              "src": "contracts/creddefs/CredentialDefinitionRegistry.sol:37",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "CredentialDefinitionRegistry",
+              "label": "schemaRegistry",
+              "type": "t_contract(ISchemaRegistry)2536",
+              "src": "contracts/creddefs/CredentialDefinitionRegistry.sol:38",
+              "offset": 0,
+              "slot": "1"
+            },
+            {
+              "contract": "CredentialDefinitionRegistry",
+              "label": "orgRegistry",
+              "type": "t_contract(IOrganizationRegistry)2464",
+              "src": "contracts/creddefs/CredentialDefinitionRegistry.sol:39",
+              "offset": 0,
+              "slot": "2"
+            },
+            {
+              "contract": "CredentialDefinitionRegistry",
+              "label": "__gap",
+              "type": "t_array(t_uint256)47_storage",
+              "src": "contracts/creddefs/CredentialDefinitionRegistry.sol:40",
+              "offset": 0,
+              "slot": "3"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Pausable": [
+            {
+              "contract": "PausableUpgradeable",
+              "label": "_paused",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts-upgradeable/utils/PausableUpgradeable.sol:21",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.AccessControl": [
+            {
+              "contract": "AccessControlUpgradeable",
+              "label": "_roles",
+              "type": "t_mapping(t_bytes32,t_struct(RoleData)24_storage)",
+              "src": "@openzeppelin/contracts-upgradeable/access/AccessControlUpgradeable.sol:61",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Initializable": [
+            {
+              "contract": "Initializable",
+              "label": "_initialized",
+              "type": "t_uint64",
+              "src": "@openzeppelin/contracts/proxy/utils/Initializable.sol:69",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "Initializable",
+              "label": "_initializing",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts/proxy/utils/Initializable.sol:73",
+              "offset": 8,
+              "slot": "0"
+            }
+          ]
+        }
+      }
+    },
+    "5ddd1506373155c882520b89092517eb0e02b5542b3cf1c30f200fe423a71452": {
+      "address": "0x00D3D36524A33a7d7f3Be37B21811FCD11BaE0F6",
+      "txHash": "0x6057a014efc578a9d097f6a33ee87ba164465061dc172e9bed9e2f204c1244aa",
+      "layout": {
+        "solcVersion": "0.8.24",
+        "storage": [],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_bytes32)16_storage": {
+            "label": "bytes32[16]",
+            "numberOfBytes": "512"
+          },
+          "t_array(t_uint256)41_storage": {
+            "label": "uint256[41]",
+            "numberOfBytes": "1312"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_bytes32": {
+            "label": "bytes32",
+            "numberOfBytes": "32"
+          },
+          "t_contract(Halo2VerifierRegistry)3428": {
+            "label": "contract Halo2VerifierRegistry",
+            "numberOfBytes": "20"
+          },
+          "t_contract(ICredentialDefinitionRegistry)1966": {
+            "label": "contract ICredentialDefinitionRegistry",
+            "numberOfBytes": "20"
+          },
+          "t_contract(IOrganizationRegistry)2464": {
+            "label": "contract IOrganizationRegistry",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_address)": {
+            "label": "mapping(bytes32 => address)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_array(t_bytes32)16_storage)": {
+            "label": "mapping(bytes32 => bytes32[16])",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_bool)": {
+            "label": "mapping(bytes32 => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_mapping(t_bytes32,t_bool))": {
+            "label": "mapping(bytes32 => mapping(bytes32 => bool))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_struct(MerkleState)2159_storage)": {
+            "label": "mapping(bytes32 => struct IMerkleStateRegistry.MerkleState)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_struct(RoleData)24_storage)": {
+            "label": "mapping(bytes32 => struct AccessControlUpgradeable.RoleData)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AccessControlStorage)34_storage": {
+            "label": "struct AccessControlUpgradeable.AccessControlStorage",
+            "members": [
+              {
+                "label": "_roles",
+                "type": "t_mapping(t_bytes32,t_struct(RoleData)24_storage)",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(InitializableStorage)432_storage": {
+            "label": "struct Initializable.InitializableStorage",
+            "members": [
+              {
+                "label": "_initialized",
+                "type": "t_uint64",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "_initializing",
+                "type": "t_bool",
+                "offset": 8,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(MerkleState)2159_storage": {
+            "label": "struct IMerkleStateRegistry.MerkleState",
+            "members": [
+              {
+                "label": "rootKeccak",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "rootPoseidon",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "epoch",
+                "type": "t_uint64",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "lastUpdated",
+                "type": "t_uint64",
+                "offset": 8,
+                "slot": "2"
+              },
+              {
+                "label": "issuedCount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "revokedCount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "4"
+              }
+            ],
+            "numberOfBytes": "160"
+          },
+          "t_struct(MsrStorage)2957_storage": {
+            "label": "struct MerkleStateRegistry.MsrStorage",
+            "members": [
+              {
+                "label": "state",
+                "type": "t_mapping(t_bytes32,t_struct(MerkleState)2159_storage)",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "recentKeccakRoots",
+                "type": "t_mapping(t_bytes32,t_array(t_bytes32)16_storage)",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "recentPoseidonRoots",
+                "type": "t_mapping(t_bytes32,t_array(t_bytes32)16_storage)",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "nullifierUsed",
+                "type": "t_mapping(t_bytes32,t_mapping(t_bytes32,t_bool))",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "zkVerifiers",
+                "type": "t_mapping(t_bytes32,t_address)",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "initialized",
+                "type": "t_mapping(t_bytes32,t_bool)",
+                "offset": 0,
+                "slot": "5"
+              },
+              {
+                "label": "credDefRegistry",
+                "type": "t_contract(ICredentialDefinitionRegistry)1966",
+                "offset": 0,
+                "slot": "6"
+              },
+              {
+                "label": "orgRegistry",
+                "type": "t_contract(IOrganizationRegistry)2464",
+                "offset": 0,
+                "slot": "7"
+              },
+              {
+                "label": "verifierRegistry",
+                "type": "t_contract(Halo2VerifierRegistry)3428",
+                "offset": 0,
+                "slot": "8"
+              },
+              {
+                "label": "reentrancyStatus",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "9"
+              },
+              {
+                "label": "__gap",
+                "type": "t_array(t_uint256)41_storage",
+                "offset": 0,
+                "slot": "10"
+              }
+            ],
+            "numberOfBytes": "1632"
+          },
+          "t_struct(PausableStorage)187_storage": {
+            "label": "struct PausableUpgradeable.PausableStorage",
+            "members": [
+              {
+                "label": "_paused",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(RoleData)24_storage": {
+            "label": "struct AccessControlUpgradeable.RoleData",
+            "members": [
+              {
+                "label": "hasRole",
+                "type": "t_mapping(t_address,t_bool)",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "adminRole",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint64": {
+            "label": "uint64",
+            "numberOfBytes": "8"
+          }
+        },
+        "namespaces": {
+          "erc7201:kanon.MerkleStateRegistry": [
+            {
+              "contract": "MerkleStateRegistry",
+              "label": "state",
+              "type": "t_mapping(t_bytes32,t_struct(MerkleState)2159_storage)",
+              "src": "contracts/state/MerkleStateRegistry.sol:43",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "MerkleStateRegistry",
+              "label": "recentKeccakRoots",
+              "type": "t_mapping(t_bytes32,t_array(t_bytes32)16_storage)",
+              "src": "contracts/state/MerkleStateRegistry.sol:44",
+              "offset": 0,
+              "slot": "1"
+            },
+            {
+              "contract": "MerkleStateRegistry",
+              "label": "recentPoseidonRoots",
+              "type": "t_mapping(t_bytes32,t_array(t_bytes32)16_storage)",
+              "src": "contracts/state/MerkleStateRegistry.sol:45",
+              "offset": 0,
+              "slot": "2"
+            },
+            {
+              "contract": "MerkleStateRegistry",
+              "label": "nullifierUsed",
+              "type": "t_mapping(t_bytes32,t_mapping(t_bytes32,t_bool))",
+              "src": "contracts/state/MerkleStateRegistry.sol:46",
+              "offset": 0,
+              "slot": "3"
+            },
+            {
+              "contract": "MerkleStateRegistry",
+              "label": "zkVerifiers",
+              "type": "t_mapping(t_bytes32,t_address)",
+              "src": "contracts/state/MerkleStateRegistry.sol:47",
+              "offset": 0,
+              "slot": "4"
+            },
+            {
+              "contract": "MerkleStateRegistry",
+              "label": "initialized",
+              "type": "t_mapping(t_bytes32,t_bool)",
+              "src": "contracts/state/MerkleStateRegistry.sol:48",
+              "offset": 0,
+              "slot": "5"
+            },
+            {
+              "contract": "MerkleStateRegistry",
+              "label": "credDefRegistry",
+              "type": "t_contract(ICredentialDefinitionRegistry)1966",
+              "src": "contracts/state/MerkleStateRegistry.sol:49",
+              "offset": 0,
+              "slot": "6"
+            },
+            {
+              "contract": "MerkleStateRegistry",
+              "label": "orgRegistry",
+              "type": "t_contract(IOrganizationRegistry)2464",
+              "src": "contracts/state/MerkleStateRegistry.sol:50",
+              "offset": 0,
+              "slot": "7"
+            },
+            {
+              "contract": "MerkleStateRegistry",
+              "label": "verifierRegistry",
+              "type": "t_contract(Halo2VerifierRegistry)3428",
+              "src": "contracts/state/MerkleStateRegistry.sol:51",
+              "offset": 0,
+              "slot": "8"
+            },
+            {
+              "contract": "MerkleStateRegistry",
+              "label": "reentrancyStatus",
+              "type": "t_uint256",
+              "src": "contracts/state/MerkleStateRegistry.sol:52",
+              "offset": 0,
+              "slot": "9"
+            },
+            {
+              "contract": "MerkleStateRegistry",
+              "label": "__gap",
+              "type": "t_array(t_uint256)41_storage",
+              "src": "contracts/state/MerkleStateRegistry.sol:53",
+              "offset": 0,
+              "slot": "10"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Pausable": [
+            {
+              "contract": "PausableUpgradeable",
+              "label": "_paused",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts-upgradeable/utils/PausableUpgradeable.sol:21",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.AccessControl": [
+            {
+              "contract": "AccessControlUpgradeable",
+              "label": "_roles",
+              "type": "t_mapping(t_bytes32,t_struct(RoleData)24_storage)",
+              "src": "@openzeppelin/contracts-upgradeable/access/AccessControlUpgradeable.sol:61",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Initializable": [
+            {
+              "contract": "Initializable",
+              "label": "_initialized",
+              "type": "t_uint64",
+              "src": "@openzeppelin/contracts/proxy/utils/Initializable.sol:69",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "Initializable",
+              "label": "_initializing",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts/proxy/utils/Initializable.sol:73",
+              "offset": 8,
+              "slot": "0"
+            }
+          ]
+        }
+      }
+    },
+    "498a7dc2964f8432bce86d5fd44c73920892316201c2ff884c9395a47fe9866a": {
+      "address": "0x47cf80Ffb6081119A7ff548593a1E9A4CA1DC126",
+      "txHash": "0xe7f9cbb889c3491c78be77d18014435bc7cc7aca87e6f58295a4824076fa93ed",
+      "layout": {
+        "solcVersion": "0.8.24",
+        "storage": [],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)47_storage": {
+            "label": "uint256[47]",
+            "numberOfBytes": "1504"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_bytes32": {
+            "label": "bytes32",
+            "numberOfBytes": "32"
+          },
+          "t_contract(ICredentialDefinitionRegistry)1966": {
+            "label": "contract ICredentialDefinitionRegistry",
+            "numberOfBytes": "20"
+          },
+          "t_contract(IOrganizationRegistry)2464": {
+            "label": "contract IOrganizationRegistry",
+            "numberOfBytes": "20"
+          },
+          "t_enum(Status)1812": {
+            "label": "enum IAnonCredsStatusRegistry.Status",
+            "members": [
+              "Unknown",
+              "Issued",
+              "Revoked"
+            ],
+            "numberOfBytes": "1"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_mapping(t_bytes32,t_struct(Entry)1237_storage))": {
+            "label": "mapping(bytes32 => mapping(bytes32 => struct AnonCredsStatusRegistry.Entry))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_struct(Entry)1237_storage)": {
+            "label": "mapping(bytes32 => struct AnonCredsStatusRegistry.Entry)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_bytes32,t_struct(RoleData)24_storage)": {
+            "label": "mapping(bytes32 => struct AccessControlUpgradeable.RoleData)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(AccessControlStorage)34_storage": {
+            "label": "struct AccessControlUpgradeable.AccessControlStorage",
+            "members": [
+              {
+                "label": "_roles",
+                "type": "t_mapping(t_bytes32,t_struct(RoleData)24_storage)",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(AnonCredsStatusStorage)1256_storage": {
+            "label": "struct AnonCredsStatusRegistry.AnonCredsStatusStorage",
+            "members": [
+              {
+                "label": "entries",
+                "type": "t_mapping(t_bytes32,t_mapping(t_bytes32,t_struct(Entry)1237_storage))",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "credDefRegistry",
+                "type": "t_contract(ICredentialDefinitionRegistry)1966",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "orgRegistry",
+                "type": "t_contract(IOrganizationRegistry)2464",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "__gap",
+                "type": "t_array(t_uint256)47_storage",
+                "offset": 0,
+                "slot": "3"
+              }
+            ],
+            "numberOfBytes": "1600"
+          },
+          "t_struct(Entry)1237_storage": {
+            "label": "struct AnonCredsStatusRegistry.Entry",
+            "members": [
+              {
+                "label": "status",
+                "type": "t_enum(Status)1812",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "issuedAt",
+                "type": "t_uint64",
+                "offset": 1,
+                "slot": "0"
+              },
+              {
+                "label": "revokedAt",
+                "type": "t_uint64",
+                "offset": 9,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(InitializableStorage)432_storage": {
+            "label": "struct Initializable.InitializableStorage",
+            "members": [
+              {
+                "label": "_initialized",
+                "type": "t_uint64",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "_initializing",
+                "type": "t_bool",
+                "offset": 8,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(PausableStorage)187_storage": {
+            "label": "struct PausableUpgradeable.PausableStorage",
+            "members": [
+              {
+                "label": "_paused",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(RoleData)24_storage": {
+            "label": "struct AccessControlUpgradeable.RoleData",
+            "members": [
+              {
+                "label": "hasRole",
+                "type": "t_mapping(t_address,t_bool)",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "adminRole",
+                "type": "t_bytes32",
+                "offset": 0,
+                "slot": "1"
+              }
+            ],
+            "numberOfBytes": "64"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint64": {
+            "label": "uint64",
+            "numberOfBytes": "8"
+          }
+        },
+        "namespaces": {
+          "erc7201:kanon.AnonCredsStatusRegistry": [
+            {
+              "contract": "AnonCredsStatusRegistry",
+              "label": "entries",
+              "type": "t_mapping(t_bytes32,t_mapping(t_bytes32,t_struct(Entry)1237_storage))",
+              "src": "contracts/anoncreds/AnonCredsStatusRegistry.sol:37",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "AnonCredsStatusRegistry",
+              "label": "credDefRegistry",
+              "type": "t_contract(ICredentialDefinitionRegistry)1966",
+              "src": "contracts/anoncreds/AnonCredsStatusRegistry.sol:38",
+              "offset": 0,
+              "slot": "1"
+            },
+            {
+              "contract": "AnonCredsStatusRegistry",
+              "label": "orgRegistry",
+              "type": "t_contract(IOrganizationRegistry)2464",
+              "src": "contracts/anoncreds/AnonCredsStatusRegistry.sol:39",
+              "offset": 0,
+              "slot": "2"
+            },
+            {
+              "contract": "AnonCredsStatusRegistry",
+              "label": "__gap",
+              "type": "t_array(t_uint256)47_storage",
+              "src": "contracts/anoncreds/AnonCredsStatusRegistry.sol:40",
+              "offset": 0,
+              "slot": "3"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Pausable": [
+            {
+              "contract": "PausableUpgradeable",
+              "label": "_paused",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts-upgradeable/utils/PausableUpgradeable.sol:21",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.AccessControl": [
+            {
+              "contract": "AccessControlUpgradeable",
+              "label": "_roles",
+              "type": "t_mapping(t_bytes32,t_struct(RoleData)24_storage)",
+              "src": "@openzeppelin/contracts-upgradeable/access/AccessControlUpgradeable.sol:61",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Initializable": [
+            {
+              "contract": "Initializable",
+              "label": "_initialized",
+              "type": "t_uint64",
+              "src": "@openzeppelin/contracts/proxy/utils/Initializable.sol:69",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "Initializable",
+              "label": "_initializing",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts/proxy/utils/Initializable.sol:73",
+              "offset": 8,
+              "slot": "0"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

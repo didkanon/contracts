@@ -1,0 +1,72 @@
+=== kanonv2 production trusted setup + build ===
+date: Tue Jun 16 21:20:51 UTC 2026
+[1/7] compiling circuit
+[32mtemplate instances[0m: 255
+non-linear constraints: 14680
+linear constraints: 9601
+wires: 24325
+[2/7] phase-1 already present
+      sha256: 1c401abb57c9ce531370f3015c3e75c0892e0f32b8b1e94ace0f6682d9695922
+[beacon] fetching a FUTURE drand round (+2) from https://drand.cloudflare.com (waits ~60s)
+drand: chain period 30s, latest round 6207127, target 6207129
+drand: target round number 6207129 (record this — it is the beacon provenance)
+drand: round 6207129 randomness obtained
+[beacon] 56604bf873db93d24b1529ba0071218334bcf4be16c872b3e6f08b7399a6f189  (drand https://drand.cloudflare.com)
+[3/7] phase-2 setup from Hermez ptau
+[4/7] your contribution (OS entropy, generated now and discarded)
+[5/7] final public beacon + verify
+[32;22m[INFO]  [39;1msnarkJS[0m: Reading r1cs
+[32;22m[INFO]  [39;1msnarkJS[0m: Reading tauG1
+[32;22m[INFO]  [39;1msnarkJS[0m: Reading tauG2
+[32;22m[INFO]  [39;1msnarkJS[0m: Reading alphatauG1
+[32;22m[INFO]  [39;1msnarkJS[0m: Reading betatauG1
+[32;22m[INFO]  [39;1msnarkJS[0m: Circuit hash: 
+		cf7f92d8 44bb7784 f8ec9e69 beebb7da
+		5f5635a4 a4432c76 58602b90 f2439b65
+		adb3bcd1 cafb6e3c f41e3eba bd8b3436
+		fd87ee56 72fa1a48 661e3e30 23274f26
+[32;22m[INFO]  [39;1msnarkJS[0m: Circuit Hash: 
+		cf7f92d8 44bb7784 f8ec9e69 beebb7da
+		5f5635a4 a4432c76 58602b90 f2439b65
+		adb3bcd1 cafb6e3c f41e3eba bd8b3436
+		fd87ee56 72fa1a48 661e3e30 23274f26
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #2 production beacon:
+		eed21db2 7e7122b9 5579bddf c9048623
+		027f1bba a58ab3c0 97a0369e a3a204ce
+		b0821cae ef391328 01306584 63f07df6
+		e7a6d818 d74c8bd0 130a3037 a92972f1
+[32;22m[INFO]  [39;1msnarkJS[0m: Beacon generator: 56604bf873db93d24b1529ba0071218334bcf4be16c872b3e6f08b7399a6f189
+[32;22m[INFO]  [39;1msnarkJS[0m: Beacon iterations Exp: 10
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #1 vinaysingh@Vinays-MacBook-Pro.local-20260616T212212Z:
+		50d4f8c0 f230d1a0 ad6b103a a6d30513
+		6419194b 2f7a274d 19d01450 f70765c3
+		42ea7da1 d5823993 3d0bbdd0 c685fca8
+		30661319 c41aef23 b09bd663 838d0b98
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: ZKey Ok!
+[6/7] hardhat compile
+Generating typings for: 1 artifacts in dir: typechain-types for target: ethers-v6
+Successfully generated 78 typings!
+Compiled 1 Solidity file successfully (evm target: cancun).
+      compiled OK
+[7/7] Tier-2 ZK test (real proof verified on-chain)
+
+
+  Tier 2 ZK — real Groth16 proof verified on-chain
+    ✔ end-to-end: issue -> prove -> verifyZKMembership returns true (2577ms)
+    ✔ tampered public signal (wrong disclosed value) fails verification (1133ms)
+    ✔ stale / unknown Poseidon root is rejected before the SNARK even runs (1070ms)
+
+
+  3 passing (5s)
+
+
+DONE — production proving key + verifier installed.
+  proving key:  circom/build/nr_final.zkey
+  verifier:     contracts/verifiers/Groth16Verifier.sol
+  attestation:  /Users/vinaysingh/Desktop/ajna/besi_blockchain/kanonv2/circom/build/prod/transcript.txt  (ptau sha256, beacon provenance, verify results)
+
+Next: deploy Groth16Verifier + Groth16NonRevocationVerifier, register in the verifier
+registry, setZkVerifier on the affected credDefs, then publish the transcript.

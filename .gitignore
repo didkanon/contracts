@@ -1,0 +1,37 @@
+node_modules/
+cache/
+artifacts/
+typechain-types/
+coverage/
+coverage.json
+.env
+.env.*
+!.env.example
+gas-report.txt
+dist/
+*.tsbuildinfo
+
+# Circom build: ignore large regenerable powers-of-tau; keep wasm+zkey+vk so the
+# Tier-2 test runs without a rebuild (see circom/scripts/build.sh / ceremony.sh).
+circom/build/*.ptau
+circom/build/nr_0.zkey
+circom/build/Verifier.sol
+# Ceremony intermediates (regenerable). The transcript is committed as the attestation.
+circom/build/ceremony/*.ptau
+circom/build/ceremony/*.zkey
+circom/build/ceremony/Verifier.sol
+circom/build/ceremony/verification_key.json
+!circom/build/ceremony/transcript.txt
+
+# SDK builds
+sdk/dist/
+
+# Downloaded Hermez powers-of-tau (large, regenerable via ceremony.sh)
+circom/build/ptau/
+
+# Production ceremony intermediates (contribute-prod.sh). Keep only the transcript attestation.
+circom/build/prod/*.zkey
+circom/build/prod/*.ptau
+circom/build/prod/Verifier.sol
+circom/build/prod/verification_key.json
+!circom/build/prod/transcript.txt
